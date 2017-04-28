@@ -1,0 +1,5 @@
+package com.java¡∑œ∞;
+
+public class ∂‡Ã¨ {
+
+}

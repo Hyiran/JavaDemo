@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+	<parameter name="driver" value="ChormeDriver"></parameter>
+	<parameter name="nodeURL" value="http://192.168.0.178:3166/wd/hub"></parameter>
+	<parameter name="Base_Url" value="http://www.hk515.com"></parameter>
+	<parameter name="UserName" value="18123655819"></parameter>
+	<parameter name="PassWord" value="655819"></parameter>
+	<parameter name="ChildCity" value="城市分站-海口市"></parameter>
+	<parameter name="HospitalToSearch" value="哈尔滨医科大学附属第二医院"></parameter>
+	<parameter name="DoctorToSearch" value="徐世东"></parameter>
+	<parameter name="CityToChoose" value="黑龙江-哈尔滨市"></parameter>
+	
+	<parameter name="HotCityHospitalToChoose" value="哈尔滨市-哈尔滨医科大学附属第四医院"></parameter>
+	<parameter name="HotCityDepartmentToChoose" value="深圳市-内科"></parameter>
+	
+	<parameter name="RecommendHospitalToChoose" value="海南省人民医院秀英门"></parameter>
+	<parameter name="HotDoctorToChoose" value="妇产科-黄斌"></parameter>
+	
+	<!-- <parameter name="Recipients" value="wangxiaohui@hk515.com,libingxian@hk515.com"></parameter> -->
+	<parameter name="Recipients" value="fanjingjian@hk515.com,mawei@hk515.com,xingyanjie@hk515.com,tangpan@hk515.com,guoxiyuan@hk515.com,guohua@hk515.com,zhengkang@hk515.com,wangxiaohui@hk515.com,chenjinbo@hk515.com,weilin@hk515.com,lijinxing@hk515.com,zhengshuheng@hk515.com,libingxian@hk515.com"></parameter>
+	<!-- 老范，马伟，艳姐，唐攀，郭希源，陈金波，魏琳 加上上面的人 -->
+	
+	<parameter name="hospital_list_file" value="src\net\hk515\data\hospital_id_list.xls" />
+	
+	<listeners>
+		<listener class-name="net.hk515.utils.TestListener"></listener>
+		<listener class-name="net.hk515.utils.TestReport"></listener>
+	</listeners>
+		
+	<test name="预约挂号">
+		<classes>
+			<class name="net.hk515.Test.AppointmentGWTest">
+				<methods preserve-order="true">
+					<include name="testAppointmentGW"  value="asdfasdfasdf"/>
+				</methods>
+			</class>
+		</classes>
+	</test>	 
+	
+   	<test name="基础功能">
+		<classes>
+			<class name="net.hk515.Test.AppointmentGWTest">
+				<methods preserve-order="true">
+				    <include name="testLogin" />
+					<include name="testChangeCity" />
+					<include name="testHotAreaAndChooseHospital" />
+					<include name="testHotAreaAndChooseDepartment" />
+					<include name="testHotDoctor" /> 
+					<include name="testSearchHospital" />
+					<include name="testSearchDoctor" />
+					<include name="testOpenNews" /> 
+					<include name="testOpenJiuyibao" />
+					<include name="testOpenYiKe" />
+					<include name="testOpenAboutHK" />
+					<include name="testHKDongTai" />
+					<include name="testContactus" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	
+   
+</suite> 

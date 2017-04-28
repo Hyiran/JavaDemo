@@ -1,0 +1,462 @@
+2017-04-06 17:23:50  [ main:0 ] - [ DEBUG ]  Get connection for route {s}->https://wenzhen.hk515.com
+2017-04-06 17:23:50  [ main:263 ] - [ DEBUG ]  Connecting to wenzhen.hk515.com:443
+2017-04-06 17:23:50  [ main:587 ] - [ DEBUG ]  CookieSpec selected: best-match
+2017-04-06 17:23:50  [ main:596 ] - [ DEBUG ]  Auth cache not set in the context
+2017-04-06 17:23:50  [ main:597 ] - [ DEBUG ]  Target auth state: UNCHALLENGED
+2017-04-06 17:23:50  [ main:598 ] - [ DEBUG ]  Proxy auth state: UNCHALLENGED
+2017-04-06 17:23:50  [ main:598 ] - [ DEBUG ]  Attempt 1 to execute request
+2017-04-06 17:23:50  [ main:599 ] - [ DEBUG ]  Sending request: POST /patientUser/dolog HTTP/1.1
+2017-04-06 17:23:50  [ main:609 ] - [ DEBUG ]   >> "POST /patientUser/dolog HTTP/1.1[\r][\n]"
+2017-04-06 17:23:50  [ main:610 ] - [ DEBUG ]   >> "Content-Length: 37[\r][\n]"
+2017-04-06 17:23:50  [ main:611 ] - [ DEBUG ]   >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2017-04-06 17:23:50  [ main:611 ] - [ DEBUG ]   >> "Host: wenzhen.hk515.com[\r][\n]"
+2017-04-06 17:23:50  [ main:611 ] - [ DEBUG ]   >> "Connection: Keep-Alive[\r][\n]"
+2017-04-06 17:23:50  [ main:611 ] - [ DEBUG ]   >> "User-Agent: Apache-HttpClient/4.3.1 (java 1.5)[\r][\n]"
+2017-04-06 17:23:50  [ main:612 ] - [ DEBUG ]   >> "[\r][\n]"
+2017-04-06 17:23:50  [ main:612 ] - [ DEBUG ]  >> POST /patientUser/dolog HTTP/1.1
+2017-04-06 17:23:50  [ main:612 ] - [ DEBUG ]  >> Content-Length: 37
+2017-04-06 17:23:50  [ main:612 ] - [ DEBUG ]  >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2017-04-06 17:23:50  [ main:613 ] - [ DEBUG ]  >> Host: wenzhen.hk515.com
+2017-04-06 17:23:50  [ main:613 ] - [ DEBUG ]  >> Connection: Keep-Alive
+2017-04-06 17:23:50  [ main:613 ] - [ DEBUG ]  >> User-Agent: Apache-HttpClient/4.3.1 (java 1.5)
+2017-04-06 17:23:50  [ main:614 ] - [ DEBUG ]   >> "password=123456&loginName=15914063350"
+2017-04-06 17:23:50  [ main:673 ] - [ DEBUG ]   << "HTTP/1.1 302 Found[\r][\n]"
+2017-04-06 17:23:50  [ main:678 ] - [ DEBUG ]   << "Server: Apache-Coyote/1.1[\r][\n]"
+2017-04-06 17:23:50  [ main:679 ] - [ DEBUG ]   << "Location: http://wenzhen.hk515.com/error.html[\r][\n]"
+2017-04-06 17:23:50  [ main:680 ] - [ DEBUG ]   << "Content-Language: en-US[\r][\n]"
+2017-04-06 17:23:50  [ main:700 ] - [ DEBUG ]   << "Content-Length: 0[\r][\n]"
+2017-04-06 17:23:50  [ main:701 ] - [ DEBUG ]   << "Date: Thu, 06 Apr 2017 09:25:40 GMT[\r][\n]"
+2017-04-06 17:23:50  [ main:701 ] - [ DEBUG ]   << "Connection: close[\r][\n]"
+2017-04-06 17:23:50  [ main:703 ] - [ DEBUG ]   << "Set-Cookie: SERVERID=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/[\r][\n]"
+2017-04-06 17:23:50  [ main:705 ] - [ DEBUG ]   << "[\r][\n]"
+2017-04-06 17:23:50  [ main:706 ] - [ DEBUG ]  Receiving response: HTTP/1.1 302 Found
+2017-04-06 17:23:50  [ main:707 ] - [ DEBUG ]  << HTTP/1.1 302 Found
+2017-04-06 17:23:50  [ main:707 ] - [ DEBUG ]  << Server: Apache-Coyote/1.1
+2017-04-06 17:23:50  [ main:708 ] - [ DEBUG ]  << Location: http://wenzhen.hk515.com/error.html
+2017-04-06 17:23:50  [ main:708 ] - [ DEBUG ]  << Content-Language: en-US
+2017-04-06 17:23:50  [ main:708 ] - [ DEBUG ]  << Content-Length: 0
+2017-04-06 17:23:50  [ main:708 ] - [ DEBUG ]  << Date: Thu, 06 Apr 2017 09:25:40 GMT
+2017-04-06 17:23:50  [ main:708 ] - [ DEBUG ]  << Connection: close
+2017-04-06 17:23:50  [ main:709 ] - [ DEBUG ]  << Set-Cookie: SERVERID=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+2017-04-06 17:23:51  [ main:749 ] - [ DEBUG ]  Cookie accepted: "[version: 0][name: SERVERID][value: ][domain: wenzhen.hk515.com][path: /][expiry: Thu Jan 01 08:00:01 CST 1970]". 
+2017-04-06 17:23:51  [ main:773 ] - [ DEBUG ]  Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@6a396c1e
+2017-04-06 17:23:51  [ main:774 ] - [ DEBUG ]  Connection 0.0.0.0:9241<->120.25.135.65:443 shut down
+2017-04-06 17:24:30  [ main:0 ] - [ DEBUG ]  Get connection for route {s}->https://wenzhen.hk515.com
+2017-04-06 17:24:30  [ main:43 ] - [ DEBUG ]  Connecting to wenzhen.hk515.com:443
+2017-04-06 17:24:30  [ main:269 ] - [ DEBUG ]  CookieSpec selected: best-match
+2017-04-06 17:24:30  [ main:279 ] - [ DEBUG ]  Auth cache not set in the context
+2017-04-06 17:24:30  [ main:280 ] - [ DEBUG ]  Target auth state: UNCHALLENGED
+2017-04-06 17:24:30  [ main:281 ] - [ DEBUG ]  Proxy auth state: UNCHALLENGED
+2017-04-06 17:24:30  [ main:282 ] - [ DEBUG ]  Attempt 1 to execute request
+2017-04-06 17:24:30  [ main:282 ] - [ DEBUG ]  Sending request: POST /patientUser/dolog HTTP/1.1
+2017-04-06 17:24:30  [ main:283 ] - [ DEBUG ]   >> "POST /patientUser/dolog HTTP/1.1[\r][\n]"
+2017-04-06 17:24:30  [ main:284 ] - [ DEBUG ]   >> "Content-Length: 37[\r][\n]"
+2017-04-06 17:24:30  [ main:285 ] - [ DEBUG ]   >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2017-04-06 17:24:30  [ main:288 ] - [ DEBUG ]   >> "Host: wenzhen.hk515.com[\r][\n]"
+2017-04-06 17:24:30  [ main:288 ] - [ DEBUG ]   >> "Connection: Keep-Alive[\r][\n]"
+2017-04-06 17:24:30  [ main:288 ] - [ DEBUG ]   >> "User-Agent: Apache-HttpClient/4.3.1 (java 1.5)[\r][\n]"
+2017-04-06 17:24:30  [ main:289 ] - [ DEBUG ]   >> "[\r][\n]"
+2017-04-06 17:24:30  [ main:289 ] - [ DEBUG ]  >> POST /patientUser/dolog HTTP/1.1
+2017-04-06 17:24:30  [ main:289 ] - [ DEBUG ]  >> Content-Length: 37
+2017-04-06 17:24:30  [ main:289 ] - [ DEBUG ]  >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2017-04-06 17:24:30  [ main:290 ] - [ DEBUG ]  >> Host: wenzhen.hk515.com
+2017-04-06 17:24:30  [ main:290 ] - [ DEBUG ]  >> Connection: Keep-Alive
+2017-04-06 17:24:30  [ main:290 ] - [ DEBUG ]  >> User-Agent: Apache-HttpClient/4.3.1 (java 1.5)
+2017-04-06 17:24:30  [ main:290 ] - [ DEBUG ]   >> "password=123456&loginName=15914063350"
+2017-04-06 17:24:30  [ main:341 ] - [ DEBUG ]   << "HTTP/1.1 302 Found[\r][\n]"
+2017-04-06 17:24:30  [ main:343 ] - [ DEBUG ]   << "Server: Apache-Coyote/1.1[\r][\n]"
+2017-04-06 17:24:30  [ main:343 ] - [ DEBUG ]   << "Location: http://wenzhen.hk515.com/error.html[\r][\n]"
+2017-04-06 17:24:30  [ main:344 ] - [ DEBUG ]   << "Content-Language: zh-CN[\r][\n]"
+2017-04-06 17:24:30  [ main:344 ] - [ DEBUG ]   << "Content-Length: 0[\r][\n]"
+2017-04-06 17:24:30  [ main:345 ] - [ DEBUG ]   << "Date: Thu, 06 Apr 2017 09:26:19 GMT[\r][\n]"
+2017-04-06 17:24:30  [ main:345 ] - [ DEBUG ]   << "Connection: close[\r][\n]"
+2017-04-06 17:24:30  [ main:346 ] - [ DEBUG ]   << "Set-Cookie: SERVERID=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/[\r][\n]"
+2017-04-06 17:24:30  [ main:348 ] - [ DEBUG ]   << "[\r][\n]"
+2017-04-06 17:24:30  [ main:349 ] - [ DEBUG ]  Receiving response: HTTP/1.1 302 Found
+2017-04-06 17:24:30  [ main:349 ] - [ DEBUG ]  << HTTP/1.1 302 Found
+2017-04-06 17:24:30  [ main:349 ] - [ DEBUG ]  << Server: Apache-Coyote/1.1
+2017-04-06 17:24:30  [ main:350 ] - [ DEBUG ]  << Location: http://wenzhen.hk515.com/error.html
+2017-04-06 17:24:30  [ main:350 ] - [ DEBUG ]  << Content-Language: zh-CN
+2017-04-06 17:24:30  [ main:351 ] - [ DEBUG ]  << Content-Length: 0
+2017-04-06 17:24:30  [ main:352 ] - [ DEBUG ]  << Date: Thu, 06 Apr 2017 09:26:19 GMT
+2017-04-06 17:24:30  [ main:352 ] - [ DEBUG ]  << Connection: close
+2017-04-06 17:24:30  [ main:352 ] - [ DEBUG ]  << Set-Cookie: SERVERID=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+2017-04-06 17:24:30  [ main:364 ] - [ DEBUG ]  Cookie accepted: "[version: 0][name: SERVERID][value: ][domain: wenzhen.hk515.com][path: /][expiry: Thu Jan 01 08:00:01 CST 1970]". 
+2017-04-06 17:24:30  [ main:379 ] - [ DEBUG ]  Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@6a396c1e
+2017-04-06 17:24:30  [ main:380 ] - [ DEBUG ]  Connection 0.0.0.0:9251<->120.25.135.65:443 shut down
+2017-04-06 17:25:08  [ main:0 ] - [ DEBUG ]  Get connection for route {s}->https://wenzhen.hk515.com
+2017-04-06 17:25:08  [ main:45 ] - [ DEBUG ]  Connecting to wenzhen.hk515.com:443
+2017-04-06 17:25:08  [ main:171 ] - [ DEBUG ]  CookieSpec selected: best-match
+2017-04-06 17:25:08  [ main:179 ] - [ DEBUG ]  Auth cache not set in the context
+2017-04-06 17:25:08  [ main:179 ] - [ DEBUG ]  Target auth state: UNCHALLENGED
+2017-04-06 17:25:08  [ main:180 ] - [ DEBUG ]  Proxy auth state: UNCHALLENGED
+2017-04-06 17:25:08  [ main:180 ] - [ DEBUG ]  Attempt 1 to execute request
+2017-04-06 17:25:08  [ main:180 ] - [ DEBUG ]  Sending request: POST /patientUser/dolog HTTP/1.1
+2017-04-06 17:25:08  [ main:181 ] - [ DEBUG ]   >> "POST /patientUser/dolog HTTP/1.1[\r][\n]"
+2017-04-06 17:25:08  [ main:183 ] - [ DEBUG ]   >> "Content-Length: 37[\r][\n]"
+2017-04-06 17:25:08  [ main:183 ] - [ DEBUG ]   >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2017-04-06 17:25:08  [ main:183 ] - [ DEBUG ]   >> "Host: wenzhen.hk515.com[\r][\n]"
+2017-04-06 17:25:08  [ main:184 ] - [ DEBUG ]   >> "Connection: Keep-Alive[\r][\n]"
+2017-04-06 17:25:08  [ main:185 ] - [ DEBUG ]   >> "User-Agent: Apache-HttpClient/4.3.1 (java 1.5)[\r][\n]"
+2017-04-06 17:25:08  [ main:185 ] - [ DEBUG ]   >> "[\r][\n]"
+2017-04-06 17:25:08  [ main:185 ] - [ DEBUG ]  >> POST /patientUser/dolog HTTP/1.1
+2017-04-06 17:25:08  [ main:186 ] - [ DEBUG ]  >> Content-Length: 37
+2017-04-06 17:25:08  [ main:186 ] - [ DEBUG ]  >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2017-04-06 17:25:08  [ main:186 ] - [ DEBUG ]  >> Host: wenzhen.hk515.com
+2017-04-06 17:25:08  [ main:186 ] - [ DEBUG ]  >> Connection: Keep-Alive
+2017-04-06 17:25:08  [ main:186 ] - [ DEBUG ]  >> User-Agent: Apache-HttpClient/4.3.1 (java 1.5)
+2017-04-06 17:25:08  [ main:187 ] - [ DEBUG ]   >> "password=123456&loginName=15914063350"
+2017-04-06 17:25:08  [ main:199 ] - [ DEBUG ]   << "HTTP/1.1 302 Found[\r][\n]"
+2017-04-06 17:25:08  [ main:201 ] - [ DEBUG ]   << "Server: Apache-Coyote/1.1[\r][\n]"
+2017-04-06 17:25:08  [ main:202 ] - [ DEBUG ]   << "Location: http://wenzhen.hk515.com/error.html[\r][\n]"
+2017-04-06 17:25:08  [ main:202 ] - [ DEBUG ]   << "Content-Language: zh-CN[\r][\n]"
+2017-04-06 17:25:08  [ main:202 ] - [ DEBUG ]   << "Content-Length: 0[\r][\n]"
+2017-04-06 17:25:08  [ main:211 ] - [ DEBUG ]   << "Date: Thu, 06 Apr 2017 09:26:58 GMT[\r][\n]"
+2017-04-06 17:25:08  [ main:211 ] - [ DEBUG ]   << "Connection: close[\r][\n]"
+2017-04-06 17:25:08  [ main:212 ] - [ DEBUG ]   << "Set-Cookie: SERVERID=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/[\r][\n]"
+2017-04-06 17:25:08  [ main:212 ] - [ DEBUG ]   << "[\r][\n]"
+2017-04-06 17:25:08  [ main:213 ] - [ DEBUG ]  Receiving response: HTTP/1.1 302 Found
+2017-04-06 17:25:08  [ main:214 ] - [ DEBUG ]  << HTTP/1.1 302 Found
+2017-04-06 17:25:08  [ main:214 ] - [ DEBUG ]  << Server: Apache-Coyote/1.1
+2017-04-06 17:25:08  [ main:214 ] - [ DEBUG ]  << Location: http://wenzhen.hk515.com/error.html
+2017-04-06 17:25:08  [ main:214 ] - [ DEBUG ]  << Content-Language: zh-CN
+2017-04-06 17:25:08  [ main:214 ] - [ DEBUG ]  << Content-Length: 0
+2017-04-06 17:25:08  [ main:215 ] - [ DEBUG ]  << Date: Thu, 06 Apr 2017 09:26:58 GMT
+2017-04-06 17:25:08  [ main:215 ] - [ DEBUG ]  << Connection: close
+2017-04-06 17:25:08  [ main:215 ] - [ DEBUG ]  << Set-Cookie: SERVERID=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+2017-04-06 17:25:08  [ main:225 ] - [ DEBUG ]  Cookie accepted: "[version: 0][name: SERVERID][value: ][domain: wenzhen.hk515.com][path: /][expiry: Thu Jan 01 08:00:01 CST 1970]". 
+2017-04-06 17:25:08  [ main:245 ] - [ DEBUG ]  Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@6a396c1e
+2017-04-06 17:25:08  [ main:246 ] - [ DEBUG ]  Connection 0.0.0.0:9277<->120.25.135.65:443 shut down
+2017-04-06 17:25:58  [ main:0 ] - [ DEBUG ]  Get connection for route {s}->https://wenzhen.hk515.com
+2017-04-06 17:25:58  [ main:34 ] - [ DEBUG ]  Connecting to wenzhen.hk515.com:443
+2017-04-06 17:25:58  [ main:164 ] - [ DEBUG ]  CookieSpec selected: best-match
+2017-04-06 17:25:58  [ main:172 ] - [ DEBUG ]  Auth cache not set in the context
+2017-04-06 17:25:58  [ main:172 ] - [ DEBUG ]  Target auth state: UNCHALLENGED
+2017-04-06 17:25:58  [ main:173 ] - [ DEBUG ]  Proxy auth state: UNCHALLENGED
+2017-04-06 17:25:58  [ main:174 ] - [ DEBUG ]  Attempt 1 to execute request
+2017-04-06 17:25:58  [ main:174 ] - [ DEBUG ]  Sending request: POST /patientUser/dolog HTTP/1.1
+2017-04-06 17:25:58  [ main:175 ] - [ DEBUG ]   >> "POST /patientUser/dolog HTTP/1.1[\r][\n]"
+2017-04-06 17:25:58  [ main:177 ] - [ DEBUG ]   >> "Content-Length: 37[\r][\n]"
+2017-04-06 17:25:58  [ main:177 ] - [ DEBUG ]   >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2017-04-06 17:25:58  [ main:180 ] - [ DEBUG ]   >> "Host: wenzhen.hk515.com[\r][\n]"
+2017-04-06 17:25:58  [ main:181 ] - [ DEBUG ]   >> "Connection: Keep-Alive[\r][\n]"
+2017-04-06 17:25:58  [ main:181 ] - [ DEBUG ]   >> "User-Agent: Apache-HttpClient/4.3.1 (java 1.5)[\r][\n]"
+2017-04-06 17:25:58  [ main:182 ] - [ DEBUG ]   >> "[\r][\n]"
+2017-04-06 17:25:58  [ main:183 ] - [ DEBUG ]  >> POST /patientUser/dolog HTTP/1.1
+2017-04-06 17:25:58  [ main:188 ] - [ DEBUG ]  >> Content-Length: 37
+2017-04-06 17:25:58  [ main:188 ] - [ DEBUG ]  >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2017-04-06 17:25:58  [ main:188 ] - [ DEBUG ]  >> Host: wenzhen.hk515.com
+2017-04-06 17:25:58  [ main:188 ] - [ DEBUG ]  >> Connection: Keep-Alive
+2017-04-06 17:25:58  [ main:188 ] - [ DEBUG ]  >> User-Agent: Apache-HttpClient/4.3.1 (java 1.5)
+2017-04-06 17:25:58  [ main:189 ] - [ DEBUG ]   >> "password=123456&loginName=15914063350"
+2017-04-06 17:25:58  [ main:208 ] - [ DEBUG ]   << "HTTP/1.1 302 Found[\r][\n]"
+2017-04-06 17:25:58  [ main:210 ] - [ DEBUG ]   << "Server: Apache-Coyote/1.1[\r][\n]"
+2017-04-06 17:25:58  [ main:210 ] - [ DEBUG ]   << "Location: http://wenzhen.hk515.com/error.html[\r][\n]"
+2017-04-06 17:25:58  [ main:210 ] - [ DEBUG ]   << "Content-Language: en-US[\r][\n]"
+2017-04-06 17:25:58  [ main:211 ] - [ DEBUG ]   << "Content-Length: 0[\r][\n]"
+2017-04-06 17:25:58  [ main:211 ] - [ DEBUG ]   << "Date: Thu, 06 Apr 2017 09:27:47 GMT[\r][\n]"
+2017-04-06 17:25:58  [ main:211 ] - [ DEBUG ]   << "Connection: close[\r][\n]"
+2017-04-06 17:25:58  [ main:211 ] - [ DEBUG ]   << "Set-Cookie: SERVERID=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/[\r][\n]"
+2017-04-06 17:25:58  [ main:211 ] - [ DEBUG ]   << "[\r][\n]"
+2017-04-06 17:25:58  [ main:212 ] - [ DEBUG ]  Receiving response: HTTP/1.1 302 Found
+2017-04-06 17:25:58  [ main:212 ] - [ DEBUG ]  << HTTP/1.1 302 Found
+2017-04-06 17:25:58  [ main:213 ] - [ DEBUG ]  << Server: Apache-Coyote/1.1
+2017-04-06 17:25:58  [ main:213 ] - [ DEBUG ]  << Location: http://wenzhen.hk515.com/error.html
+2017-04-06 17:25:58  [ main:213 ] - [ DEBUG ]  << Content-Language: en-US
+2017-04-06 17:25:58  [ main:217 ] - [ DEBUG ]  << Content-Length: 0
+2017-04-06 17:25:58  [ main:217 ] - [ DEBUG ]  << Date: Thu, 06 Apr 2017 09:27:47 GMT
+2017-04-06 17:25:58  [ main:217 ] - [ DEBUG ]  << Connection: close
+2017-04-06 17:25:58  [ main:217 ] - [ DEBUG ]  << Set-Cookie: SERVERID=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+2017-04-06 17:25:58  [ main:234 ] - [ DEBUG ]  Cookie accepted: "[version: 0][name: SERVERID][value: ][domain: wenzhen.hk515.com][path: /][expiry: Thu Jan 01 08:00:01 CST 1970]". 
+2017-04-06 17:25:58  [ main:249 ] - [ DEBUG ]  Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@6a396c1e
+2017-04-06 17:25:58  [ main:251 ] - [ DEBUG ]  Connection 0.0.0.0:9311<->120.25.135.65:443 shut down
+2017-04-06 17:26:05  [ main:0 ] - [ DEBUG ]  Get connection for route {s}->https://wenzhen.hk515.com
+2017-04-06 17:26:05  [ main:40 ] - [ DEBUG ]  Connecting to wenzhen.hk515.com:443
+2017-04-06 17:26:05  [ main:164 ] - [ DEBUG ]  CookieSpec selected: best-match
+2017-04-06 17:26:05  [ main:173 ] - [ DEBUG ]  Auth cache not set in the context
+2017-04-06 17:26:05  [ main:173 ] - [ DEBUG ]  Target auth state: UNCHALLENGED
+2017-04-06 17:26:05  [ main:174 ] - [ DEBUG ]  Proxy auth state: UNCHALLENGED
+2017-04-06 17:26:05  [ main:175 ] - [ DEBUG ]  Attempt 1 to execute request
+2017-04-06 17:26:05  [ main:175 ] - [ DEBUG ]  Sending request: POST /patientUser/dolog HTTP/1.1
+2017-04-06 17:26:05  [ main:176 ] - [ DEBUG ]   >> "POST /patientUser/dolog HTTP/1.1[\r][\n]"
+2017-04-06 17:26:05  [ main:178 ] - [ DEBUG ]   >> "Content-Length: 37[\r][\n]"
+2017-04-06 17:26:05  [ main:178 ] - [ DEBUG ]   >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2017-04-06 17:26:05  [ main:181 ] - [ DEBUG ]   >> "Host: wenzhen.hk515.com[\r][\n]"
+2017-04-06 17:26:05  [ main:181 ] - [ DEBUG ]   >> "Connection: Keep-Alive[\r][\n]"
+2017-04-06 17:26:05  [ main:182 ] - [ DEBUG ]   >> "User-Agent: Apache-HttpClient/4.3.1 (java 1.5)[\r][\n]"
+2017-04-06 17:26:05  [ main:182 ] - [ DEBUG ]   >> "[\r][\n]"
+2017-04-06 17:26:05  [ main:183 ] - [ DEBUG ]  >> POST /patientUser/dolog HTTP/1.1
+2017-04-06 17:26:05  [ main:191 ] - [ DEBUG ]  >> Content-Length: 37
+2017-04-06 17:26:05  [ main:191 ] - [ DEBUG ]  >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2017-04-06 17:26:05  [ main:192 ] - [ DEBUG ]  >> Host: wenzhen.hk515.com
+2017-04-06 17:26:05  [ main:192 ] - [ DEBUG ]  >> Connection: Keep-Alive
+2017-04-06 17:26:05  [ main:192 ] - [ DEBUG ]  >> User-Agent: Apache-HttpClient/4.3.1 (java 1.5)
+2017-04-06 17:26:05  [ main:193 ] - [ DEBUG ]   >> "password=123456&loginName=15914063350"
+2017-04-06 17:26:05  [ main:209 ] - [ DEBUG ]   << "HTTP/1.1 302 Found[\r][\n]"
+2017-04-06 17:26:05  [ main:216 ] - [ DEBUG ]   << "Server: Apache-Coyote/1.1[\r][\n]"
+2017-04-06 17:26:05  [ main:216 ] - [ DEBUG ]   << "Location: http://wenzhen.hk515.com/error.html[\r][\n]"
+2017-04-06 17:26:05  [ main:217 ] - [ DEBUG ]   << "Content-Language: en-US[\r][\n]"
+2017-04-06 17:26:05  [ main:222 ] - [ DEBUG ]   << "Content-Length: 0[\r][\n]"
+2017-04-06 17:26:05  [ main:222 ] - [ DEBUG ]   << "Date: Thu, 06 Apr 2017 09:27:55 GMT[\r][\n]"
+2017-04-06 17:26:05  [ main:223 ] - [ DEBUG ]   << "Connection: close[\r][\n]"
+2017-04-06 17:26:05  [ main:226 ] - [ DEBUG ]   << "Set-Cookie: SERVERID=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/[\r][\n]"
+2017-04-06 17:26:05  [ main:226 ] - [ DEBUG ]   << "[\r][\n]"
+2017-04-06 17:26:05  [ main:227 ] - [ DEBUG ]  Receiving response: HTTP/1.1 302 Found
+2017-04-06 17:26:05  [ main:229 ] - [ DEBUG ]  << HTTP/1.1 302 Found
+2017-04-06 17:26:05  [ main:229 ] - [ DEBUG ]  << Server: Apache-Coyote/1.1
+2017-04-06 17:26:05  [ main:229 ] - [ DEBUG ]  << Location: http://wenzhen.hk515.com/error.html
+2017-04-06 17:26:05  [ main:230 ] - [ DEBUG ]  << Content-Language: en-US
+2017-04-06 17:26:05  [ main:231 ] - [ DEBUG ]  << Content-Length: 0
+2017-04-06 17:26:05  [ main:231 ] - [ DEBUG ]  << Date: Thu, 06 Apr 2017 09:27:55 GMT
+2017-04-06 17:26:05  [ main:231 ] - [ DEBUG ]  << Connection: close
+2017-04-06 17:26:05  [ main:232 ] - [ DEBUG ]  << Set-Cookie: SERVERID=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+2017-04-06 17:26:05  [ main:243 ] - [ DEBUG ]  Cookie accepted: "[version: 0][name: SERVERID][value: ][domain: wenzhen.hk515.com][path: /][expiry: Thu Jan 01 08:00:01 CST 1970]". 
+2017-04-06 17:26:05  [ main:253 ] - [ DEBUG ]  Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@6a396c1e
+2017-04-06 17:26:05  [ main:254 ] - [ DEBUG ]  Connection 0.0.0.0:9321<->120.25.135.65:443 shut down
+2017-04-06 17:26:55  [ main:0 ] - [ DEBUG ]  Get connection for route {s}->https://wenzhen.hk515.com
+2017-04-06 17:26:55  [ main:39 ] - [ DEBUG ]  Connecting to wenzhen.hk515.com:443
+2017-04-06 17:26:56  [ main:485 ] - [ DEBUG ]  CookieSpec selected: best-match
+2017-04-06 17:26:56  [ main:494 ] - [ DEBUG ]  Auth cache not set in the context
+2017-04-06 17:26:56  [ main:494 ] - [ DEBUG ]  Target auth state: UNCHALLENGED
+2017-04-06 17:26:56  [ main:495 ] - [ DEBUG ]  Proxy auth state: UNCHALLENGED
+2017-04-06 17:26:56  [ main:495 ] - [ DEBUG ]  Attempt 1 to execute request
+2017-04-06 17:26:56  [ main:496 ] - [ DEBUG ]  Sending request: POST /patientUser/dolog HTTP/1.1
+2017-04-06 17:26:56  [ main:496 ] - [ DEBUG ]   >> "POST /patientUser/dolog HTTP/1.1[\r][\n]"
+2017-04-06 17:26:56  [ main:498 ] - [ DEBUG ]   >> "Content-Length: 37[\r][\n]"
+2017-04-06 17:26:56  [ main:498 ] - [ DEBUG ]   >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2017-04-06 17:26:56  [ main:498 ] - [ DEBUG ]   >> "Host: wenzhen.hk515.com[\r][\n]"
+2017-04-06 17:26:56  [ main:500 ] - [ DEBUG ]   >> "Connection: Keep-Alive[\r][\n]"
+2017-04-06 17:26:56  [ main:500 ] - [ DEBUG ]   >> "User-Agent: Apache-HttpClient/4.3.1 (java 1.5)[\r][\n]"
+2017-04-06 17:26:56  [ main:500 ] - [ DEBUG ]   >> "[\r][\n]"
+2017-04-06 17:26:56  [ main:501 ] - [ DEBUG ]  >> POST /patientUser/dolog HTTP/1.1
+2017-04-06 17:26:56  [ main:501 ] - [ DEBUG ]  >> Content-Length: 37
+2017-04-06 17:26:56  [ main:501 ] - [ DEBUG ]  >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2017-04-06 17:26:56  [ main:501 ] - [ DEBUG ]  >> Host: wenzhen.hk515.com
+2017-04-06 17:26:56  [ main:501 ] - [ DEBUG ]  >> Connection: Keep-Alive
+2017-04-06 17:26:56  [ main:502 ] - [ DEBUG ]  >> User-Agent: Apache-HttpClient/4.3.1 (java 1.5)
+2017-04-06 17:26:56  [ main:502 ] - [ DEBUG ]   >> "password=123456&loginName=15914063350"
+2017-04-06 17:26:56  [ main:517 ] - [ DEBUG ]   << "HTTP/1.1 302 Found[\r][\n]"
+2017-04-06 17:26:56  [ main:519 ] - [ DEBUG ]   << "Server: Apache-Coyote/1.1[\r][\n]"
+2017-04-06 17:26:56  [ main:519 ] - [ DEBUG ]   << "Location: http://wenzhen.hk515.com/error.html[\r][\n]"
+2017-04-06 17:26:56  [ main:519 ] - [ DEBUG ]   << "Content-Language: zh-CN[\r][\n]"
+2017-04-06 17:26:56  [ main:520 ] - [ DEBUG ]   << "Content-Length: 0[\r][\n]"
+2017-04-06 17:26:56  [ main:520 ] - [ DEBUG ]   << "Date: Thu, 06 Apr 2017 09:28:45 GMT[\r][\n]"
+2017-04-06 17:26:56  [ main:520 ] - [ DEBUG ]   << "Connection: close[\r][\n]"
+2017-04-06 17:26:56  [ main:520 ] - [ DEBUG ]   << "Set-Cookie: SERVERID=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/[\r][\n]"
+2017-04-06 17:26:56  [ main:521 ] - [ DEBUG ]   << "[\r][\n]"
+2017-04-06 17:26:56  [ main:521 ] - [ DEBUG ]  Receiving response: HTTP/1.1 302 Found
+2017-04-06 17:26:56  [ main:522 ] - [ DEBUG ]  << HTTP/1.1 302 Found
+2017-04-06 17:26:56  [ main:522 ] - [ DEBUG ]  << Server: Apache-Coyote/1.1
+2017-04-06 17:26:56  [ main:522 ] - [ DEBUG ]  << Location: http://wenzhen.hk515.com/error.html
+2017-04-06 17:26:56  [ main:522 ] - [ DEBUG ]  << Content-Language: zh-CN
+2017-04-06 17:26:56  [ main:522 ] - [ DEBUG ]  << Content-Length: 0
+2017-04-06 17:26:56  [ main:523 ] - [ DEBUG ]  << Date: Thu, 06 Apr 2017 09:28:45 GMT
+2017-04-06 17:26:56  [ main:523 ] - [ DEBUG ]  << Connection: close
+2017-04-06 17:26:56  [ main:523 ] - [ DEBUG ]  << Set-Cookie: SERVERID=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+2017-04-06 17:26:56  [ main:534 ] - [ DEBUG ]  Cookie accepted: "[version: 0][name: SERVERID][value: ][domain: wenzhen.hk515.com][path: /][expiry: Thu Jan 01 08:00:01 CST 1970]". 
+2017-04-06 17:26:56  [ main:548 ] - [ DEBUG ]  Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@6a396c1e
+2017-04-06 17:26:56  [ main:549 ] - [ DEBUG ]  Connection 0.0.0.0:9345<->120.25.135.65:443 shut down
+2017-04-06 17:37:49  [ main:0 ] - [ DEBUG ]  Get connection for route {s}->https://wenzhen.hk515.com
+2017-04-06 17:37:49  [ main:41 ] - [ DEBUG ]  Connecting to wenzhen.hk515.com:443
+2017-04-06 17:37:49  [ main:163 ] - [ DEBUG ]  CookieSpec selected: best-match
+2017-04-06 17:37:49  [ main:170 ] - [ DEBUG ]  Auth cache not set in the context
+2017-04-06 17:37:49  [ main:171 ] - [ DEBUG ]  Target auth state: UNCHALLENGED
+2017-04-06 17:37:49  [ main:171 ] - [ DEBUG ]  Proxy auth state: UNCHALLENGED
+2017-04-06 17:37:49  [ main:172 ] - [ DEBUG ]  Attempt 1 to execute request
+2017-04-06 17:37:49  [ main:172 ] - [ DEBUG ]  Sending request: POST /patientUser/dolog HTTP/1.1
+2017-04-06 17:37:49  [ main:173 ] - [ DEBUG ]   >> "POST /patientUser/dolog HTTP/1.1[\r][\n]"
+2017-04-06 17:37:49  [ main:175 ] - [ DEBUG ]   >> "Content-Length: 37[\r][\n]"
+2017-04-06 17:37:49  [ main:175 ] - [ DEBUG ]   >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2017-04-06 17:37:49  [ main:176 ] - [ DEBUG ]   >> "Host: wenzhen.hk515.com[\r][\n]"
+2017-04-06 17:37:49  [ main:176 ] - [ DEBUG ]   >> "Connection: Keep-Alive[\r][\n]"
+2017-04-06 17:37:49  [ main:177 ] - [ DEBUG ]   >> "User-Agent: Apache-HttpClient/4.3.1 (java 1.5)[\r][\n]"
+2017-04-06 17:37:49  [ main:178 ] - [ DEBUG ]   >> "[\r][\n]"
+2017-04-06 17:37:49  [ main:179 ] - [ DEBUG ]  >> POST /patientUser/dolog HTTP/1.1
+2017-04-06 17:37:49  [ main:188 ] - [ DEBUG ]  >> Content-Length: 37
+2017-04-06 17:37:49  [ main:189 ] - [ DEBUG ]  >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2017-04-06 17:37:49  [ main:190 ] - [ DEBUG ]  >> Host: wenzhen.hk515.com
+2017-04-06 17:37:49  [ main:190 ] - [ DEBUG ]  >> Connection: Keep-Alive
+2017-04-06 17:37:49  [ main:190 ] - [ DEBUG ]  >> User-Agent: Apache-HttpClient/4.3.1 (java 1.5)
+2017-04-06 17:37:49  [ main:191 ] - [ DEBUG ]   >> "password=123456&loginName=15914063350"
+2017-04-06 17:37:49  [ main:204 ] - [ DEBUG ]   << "HTTP/1.1 302 Found[\r][\n]"
+2017-04-06 17:37:49  [ main:205 ] - [ DEBUG ]   << "Server: Apache-Coyote/1.1[\r][\n]"
+2017-04-06 17:37:49  [ main:207 ] - [ DEBUG ]   << "Location: http://wenzhen.hk515.com/error.html[\r][\n]"
+2017-04-06 17:37:49  [ main:207 ] - [ DEBUG ]   << "Content-Language: zh-CN[\r][\n]"
+2017-04-06 17:37:49  [ main:211 ] - [ DEBUG ]   << "Content-Length: 0[\r][\n]"
+2017-04-06 17:37:49  [ main:211 ] - [ DEBUG ]   << "Date: Thu, 06 Apr 2017 09:39:38 GMT[\r][\n]"
+2017-04-06 17:37:49  [ main:211 ] - [ DEBUG ]   << "Connection: close[\r][\n]"
+2017-04-06 17:37:49  [ main:212 ] - [ DEBUG ]   << "Set-Cookie: SERVERID=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/[\r][\n]"
+2017-04-06 17:37:49  [ main:213 ] - [ DEBUG ]   << "[\r][\n]"
+2017-04-06 17:37:49  [ main:215 ] - [ DEBUG ]  Receiving response: HTTP/1.1 302 Found
+2017-04-06 17:37:49  [ main:215 ] - [ DEBUG ]  << HTTP/1.1 302 Found
+2017-04-06 17:37:49  [ main:215 ] - [ DEBUG ]  << Server: Apache-Coyote/1.1
+2017-04-06 17:37:49  [ main:215 ] - [ DEBUG ]  << Location: http://wenzhen.hk515.com/error.html
+2017-04-06 17:37:49  [ main:216 ] - [ DEBUG ]  << Content-Language: zh-CN
+2017-04-06 17:37:49  [ main:216 ] - [ DEBUG ]  << Content-Length: 0
+2017-04-06 17:37:49  [ main:216 ] - [ DEBUG ]  << Date: Thu, 06 Apr 2017 09:39:38 GMT
+2017-04-06 17:37:49  [ main:217 ] - [ DEBUG ]  << Connection: close
+2017-04-06 17:37:49  [ main:217 ] - [ DEBUG ]  << Set-Cookie: SERVERID=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+2017-04-06 17:37:49  [ main:233 ] - [ DEBUG ]  Cookie accepted: "[version: 0][name: SERVERID][value: ][domain: wenzhen.hk515.com][path: /][expiry: Thu Jan 01 08:00:01 CST 1970]". 
+2017-04-06 17:37:49  [ main:250 ] - [ DEBUG ]  Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@6a396c1e
+2017-04-06 17:37:49  [ main:251 ] - [ DEBUG ]  Connection 0.0.0.0:9972<->120.25.135.65:443 shut down
+2017-04-06 17:38:44  [ main:0 ] - [ DEBUG ]  Get connection for route {s}->https://wenzhen.hk515.com
+2017-04-06 17:38:44  [ main:52 ] - [ DEBUG ]  Connecting to wenzhen.hk515.com:443
+2017-04-06 17:38:44  [ main:188 ] - [ DEBUG ]  CookieSpec selected: best-match
+2017-04-06 17:38:44  [ main:203 ] - [ DEBUG ]  Auth cache not set in the context
+2017-04-06 17:38:44  [ main:203 ] - [ DEBUG ]  Target auth state: UNCHALLENGED
+2017-04-06 17:38:44  [ main:204 ] - [ DEBUG ]  Proxy auth state: UNCHALLENGED
+2017-04-06 17:38:44  [ main:205 ] - [ DEBUG ]  Attempt 1 to execute request
+2017-04-06 17:38:44  [ main:205 ] - [ DEBUG ]  Sending request: POST /patientUser/dolog HTTP/1.1
+2017-04-06 17:38:44  [ main:206 ] - [ DEBUG ]   >> "POST /patientUser/dolog HTTP/1.1[\r][\n]"
+2017-04-06 17:38:44  [ main:208 ] - [ DEBUG ]   >> "Content-Length: 37[\r][\n]"
+2017-04-06 17:38:44  [ main:208 ] - [ DEBUG ]   >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2017-04-06 17:38:44  [ main:209 ] - [ DEBUG ]   >> "Host: wenzhen.hk515.com[\r][\n]"
+2017-04-06 17:38:44  [ main:209 ] - [ DEBUG ]   >> "Connection: Keep-Alive[\r][\n]"
+2017-04-06 17:38:44  [ main:210 ] - [ DEBUG ]   >> "User-Agent: Apache-HttpClient/4.3.1 (java 1.5)[\r][\n]"
+2017-04-06 17:38:44  [ main:210 ] - [ DEBUG ]   >> "[\r][\n]"
+2017-04-06 17:38:44  [ main:210 ] - [ DEBUG ]  >> POST /patientUser/dolog HTTP/1.1
+2017-04-06 17:38:44  [ main:211 ] - [ DEBUG ]  >> Content-Length: 37
+2017-04-06 17:38:44  [ main:211 ] - [ DEBUG ]  >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2017-04-06 17:38:44  [ main:211 ] - [ DEBUG ]  >> Host: wenzhen.hk515.com
+2017-04-06 17:38:44  [ main:211 ] - [ DEBUG ]  >> Connection: Keep-Alive
+2017-04-06 17:38:44  [ main:212 ] - [ DEBUG ]  >> User-Agent: Apache-HttpClient/4.3.1 (java 1.5)
+2017-04-06 17:38:44  [ main:212 ] - [ DEBUG ]   >> "password=123456&loginName=15914063350"
+2017-04-06 17:38:44  [ main:224 ] - [ DEBUG ]   << "HTTP/1.1 302 Found[\r][\n]"
+2017-04-06 17:38:44  [ main:226 ] - [ DEBUG ]   << "Server: Apache-Coyote/1.1[\r][\n]"
+2017-04-06 17:38:44  [ main:226 ] - [ DEBUG ]   << "Location: http://wenzhen.hk515.com/error.html[\r][\n]"
+2017-04-06 17:38:44  [ main:226 ] - [ DEBUG ]   << "Content-Language: zh-CN[\r][\n]"
+2017-04-06 17:38:44  [ main:239 ] - [ DEBUG ]   << "Content-Length: 0[\r][\n]"
+2017-04-06 17:38:44  [ main:239 ] - [ DEBUG ]   << "Date: Thu, 06 Apr 2017 09:40:33 GMT[\r][\n]"
+2017-04-06 17:38:44  [ main:239 ] - [ DEBUG ]   << "Connection: close[\r][\n]"
+2017-04-06 17:38:44  [ main:240 ] - [ DEBUG ]   << "Set-Cookie: SERVERID=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/[\r][\n]"
+2017-04-06 17:38:44  [ main:240 ] - [ DEBUG ]   << "[\r][\n]"
+2017-04-06 17:38:44  [ main:241 ] - [ DEBUG ]  Receiving response: HTTP/1.1 302 Found
+2017-04-06 17:38:44  [ main:241 ] - [ DEBUG ]  << HTTP/1.1 302 Found
+2017-04-06 17:38:44  [ main:242 ] - [ DEBUG ]  << Server: Apache-Coyote/1.1
+2017-04-06 17:38:44  [ main:242 ] - [ DEBUG ]  << Location: http://wenzhen.hk515.com/error.html
+2017-04-06 17:38:44  [ main:242 ] - [ DEBUG ]  << Content-Language: zh-CN
+2017-04-06 17:38:44  [ main:242 ] - [ DEBUG ]  << Content-Length: 0
+2017-04-06 17:38:44  [ main:242 ] - [ DEBUG ]  << Date: Thu, 06 Apr 2017 09:40:33 GMT
+2017-04-06 17:38:44  [ main:243 ] - [ DEBUG ]  << Connection: close
+2017-04-06 17:38:44  [ main:243 ] - [ DEBUG ]  << Set-Cookie: SERVERID=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+2017-04-06 17:38:44  [ main:254 ] - [ DEBUG ]  Cookie accepted: "[version: 0][name: SERVERID][value: ][domain: wenzhen.hk515.com][path: /][expiry: Thu Jan 01 08:00:01 CST 1970]". 
+2017-04-06 17:38:44  [ main:267 ] - [ DEBUG ]  Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@6a396c1e
+2017-04-06 17:38:44  [ main:268 ] - [ DEBUG ]  Connection 0.0.0.0:10038<->120.25.135.65:443 shut down
+2017-04-06 17:40:37  [ main:0 ] - [ DEBUG ]  Get connection for route {s}->https://wenzhen.hk515.com
+2017-04-06 17:40:37  [ main:43 ] - [ DEBUG ]  Connecting to wenzhen.hk515.com:443
+2017-04-06 17:40:37  [ main:163 ] - [ DEBUG ]  CookieSpec selected: best-match
+2017-04-06 17:40:37  [ main:170 ] - [ DEBUG ]  Auth cache not set in the context
+2017-04-06 17:40:37  [ main:171 ] - [ DEBUG ]  Target auth state: UNCHALLENGED
+2017-04-06 17:40:37  [ main:171 ] - [ DEBUG ]  Proxy auth state: UNCHALLENGED
+2017-04-06 17:40:37  [ main:171 ] - [ DEBUG ]  Attempt 1 to execute request
+2017-04-06 17:40:37  [ main:172 ] - [ DEBUG ]  Sending request: POST /patientUser/dolog HTTP/1.1
+2017-04-06 17:40:37  [ main:172 ] - [ DEBUG ]   >> "POST /patientUser/dolog HTTP/1.1[\r][\n]"
+2017-04-06 17:40:37  [ main:173 ] - [ DEBUG ]   >> "Content-Length: 37[\r][\n]"
+2017-04-06 17:40:37  [ main:173 ] - [ DEBUG ]   >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2017-04-06 17:40:37  [ main:174 ] - [ DEBUG ]   >> "Host: wenzhen.hk515.com[\r][\n]"
+2017-04-06 17:40:37  [ main:174 ] - [ DEBUG ]   >> "Connection: Keep-Alive[\r][\n]"
+2017-04-06 17:40:37  [ main:174 ] - [ DEBUG ]   >> "User-Agent: Apache-HttpClient/4.3.1 (java 1.5)[\r][\n]"
+2017-04-06 17:40:37  [ main:174 ] - [ DEBUG ]   >> "[\r][\n]"
+2017-04-06 17:40:37  [ main:175 ] - [ DEBUG ]  >> POST /patientUser/dolog HTTP/1.1
+2017-04-06 17:40:37  [ main:175 ] - [ DEBUG ]  >> Content-Length: 37
+2017-04-06 17:40:37  [ main:175 ] - [ DEBUG ]  >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2017-04-06 17:40:37  [ main:175 ] - [ DEBUG ]  >> Host: wenzhen.hk515.com
+2017-04-06 17:40:37  [ main:176 ] - [ DEBUG ]  >> Connection: Keep-Alive
+2017-04-06 17:40:37  [ main:176 ] - [ DEBUG ]  >> User-Agent: Apache-HttpClient/4.3.1 (java 1.5)
+2017-04-06 17:40:37  [ main:176 ] - [ DEBUG ]   >> "password=123456&loginName=15914063350"
+2017-04-06 17:40:37  [ main:193 ] - [ DEBUG ]   << "HTTP/1.1 302 Found[\r][\n]"
+2017-04-06 17:40:37  [ main:195 ] - [ DEBUG ]   << "Server: Apache-Coyote/1.1[\r][\n]"
+2017-04-06 17:40:37  [ main:195 ] - [ DEBUG ]   << "Location: http://wenzhen.hk515.com/error.html[\r][\n]"
+2017-04-06 17:40:37  [ main:196 ] - [ DEBUG ]   << "Content-Language: en-US[\r][\n]"
+2017-04-06 17:40:37  [ main:205 ] - [ DEBUG ]   << "Content-Length: 0[\r][\n]"
+2017-04-06 17:40:37  [ main:205 ] - [ DEBUG ]   << "Date: Thu, 06 Apr 2017 09:42:26 GMT[\r][\n]"
+2017-04-06 17:40:37  [ main:205 ] - [ DEBUG ]   << "Connection: close[\r][\n]"
+2017-04-06 17:40:37  [ main:206 ] - [ DEBUG ]   << "Set-Cookie: SERVERID=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/[\r][\n]"
+2017-04-06 17:40:37  [ main:207 ] - [ DEBUG ]   << "[\r][\n]"
+2017-04-06 17:40:37  [ main:207 ] - [ DEBUG ]  Receiving response: HTTP/1.1 302 Found
+2017-04-06 17:40:37  [ main:208 ] - [ DEBUG ]  << HTTP/1.1 302 Found
+2017-04-06 17:40:37  [ main:208 ] - [ DEBUG ]  << Server: Apache-Coyote/1.1
+2017-04-06 17:40:37  [ main:208 ] - [ DEBUG ]  << Location: http://wenzhen.hk515.com/error.html
+2017-04-06 17:40:37  [ main:208 ] - [ DEBUG ]  << Content-Language: en-US
+2017-04-06 17:40:37  [ main:209 ] - [ DEBUG ]  << Content-Length: 0
+2017-04-06 17:40:37  [ main:209 ] - [ DEBUG ]  << Date: Thu, 06 Apr 2017 09:42:26 GMT
+2017-04-06 17:40:37  [ main:209 ] - [ DEBUG ]  << Connection: close
+2017-04-06 17:40:37  [ main:209 ] - [ DEBUG ]  << Set-Cookie: SERVERID=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+2017-04-06 17:40:37  [ main:219 ] - [ DEBUG ]  Cookie accepted: "[version: 0][name: SERVERID][value: ][domain: wenzhen.hk515.com][path: /][expiry: Thu Jan 01 08:00:01 CST 1970]". 
+2017-04-06 17:40:37  [ main:230 ] - [ DEBUG ]  Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@6a396c1e
+2017-04-06 17:40:37  [ main:231 ] - [ DEBUG ]  Connection 0.0.0.0:10101<->120.25.135.65:443 shut down
+2017-04-06 17:45:23  [ main:0 ] - [ DEBUG ]  Get connection for route {s}->https://mail.10086.cn
+2017-04-06 17:45:23  [ main:46 ] - [ DEBUG ]  Connecting to mail.10086.cn:443
+2017-04-06 17:45:23  [ main:223 ] - [ DEBUG ]  CookieSpec selected: best-match
+2017-04-06 17:45:23  [ main:231 ] - [ DEBUG ]  Auth cache not set in the context
+2017-04-06 17:45:23  [ main:231 ] - [ DEBUG ]  Target auth state: UNCHALLENGED
+2017-04-06 17:45:23  [ main:232 ] - [ DEBUG ]  Proxy auth state: UNCHALLENGED
+2017-04-06 17:45:23  [ main:232 ] - [ DEBUG ]  Attempt 1 to execute request
+2017-04-06 17:45:23  [ main:233 ] - [ DEBUG ]  Sending request: POST /Login/Login.ashx?_fv=4&cguid=1742225179455&_=5e4f025239e2413c8e98dc68c476a1db8682b648&resource=indexLogin HTTP/1.1
+2017-04-06 17:45:23  [ main:233 ] - [ DEBUG ]   >> "POST /Login/Login.ashx?_fv=4&cguid=1742225179455&_=5e4f025239e2413c8e98dc68c476a1db8682b648&resource=indexLogin HTTP/1.1[\r][\n]"
+2017-04-06 17:45:23  [ main:234 ] - [ DEBUG ]   >> "Content-Length: 107[\r][\n]"
+2017-04-06 17:45:23  [ main:234 ] - [ DEBUG ]   >> "Content-Type: application/x-www-form-urlencoded; charset=UTF-8[\r][\n]"
+2017-04-06 17:45:23  [ main:235 ] - [ DEBUG ]   >> "Host: mail.10086.cn[\r][\n]"
+2017-04-06 17:45:23  [ main:235 ] - [ DEBUG ]   >> "Connection: Keep-Alive[\r][\n]"
+2017-04-06 17:45:23  [ main:235 ] - [ DEBUG ]   >> "User-Agent: Apache-HttpClient/4.3.1 (java 1.5)[\r][\n]"
+2017-04-06 17:45:23  [ main:236 ] - [ DEBUG ]   >> "[\r][\n]"
+2017-04-06 17:45:23  [ main:236 ] - [ DEBUG ]  >> POST /Login/Login.ashx?_fv=4&cguid=1742225179455&_=5e4f025239e2413c8e98dc68c476a1db8682b648&resource=indexLogin HTTP/1.1
+2017-04-06 17:45:23  [ main:236 ] - [ DEBUG ]  >> Content-Length: 107
+2017-04-06 17:45:23  [ main:236 ] - [ DEBUG ]  >> Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+2017-04-06 17:45:23  [ main:237 ] - [ DEBUG ]  >> Host: mail.10086.cn
+2017-04-06 17:45:23  [ main:237 ] - [ DEBUG ]  >> Connection: Keep-Alive
+2017-04-06 17:45:23  [ main:237 ] - [ DEBUG ]  >> User-Agent: Apache-HttpClient/4.3.1 (java 1.5)
+2017-04-06 17:45:23  [ main:237 ] - [ DEBUG ]   >> "webVersion=25&UserName=15914063350&verifyCode=&authType=2&Password=d8bf8ee806ea30556543bac36c1fa23ed6a6940a"
+2017-04-06 17:45:23  [ main:296 ] - [ DEBUG ]   << "HTTP/1.1 302 Found[\r][\n]"
+2017-04-06 17:45:23  [ main:301 ] - [ DEBUG ]   << "Server: nginx[\r][\n]"
+2017-04-06 17:45:23  [ main:302 ] - [ DEBUG ]   << "Date: Thu, 06 Apr 2017 09:47:12 GMT[\r][\n]"
+2017-04-06 17:45:23  [ main:303 ] - [ DEBUG ]   << "Content-Length: 0[\r][\n]"
+2017-04-06 17:45:23  [ main:336 ] - [ DEBUG ]   << "Connection: keep-alive[\r][\n]"
+2017-04-06 17:45:23  [ main:337 ] - [ DEBUG ]   << "Set-Cookie: a_l=;Path=/;Domain=mail.10086.cn;expires=Thu Apr 06 17:47:12 CST 2017;Max-Age=0[\r][\n]"
+2017-04-06 17:45:23  [ main:337 ] - [ DEBUG ]   << "Set-Cookie: a_l2=;Path=/;Domain=mail.10086.cn;expires=Thu Apr 06 17:47:12 CST 2017;Max-Age=0;HTTPOnly[\r][\n]"
+2017-04-06 17:45:23  [ main:339 ] - [ DEBUG ]   << "Set-Cookie: RMKEY=24ce2fa158e60ea0;Path=/;Domain=mail.10086.cn;HTTPOnly[\r][\n]"
+2017-04-06 17:45:23  [ main:339 ] - [ DEBUG ]   << "Set-Cookie: Os_SSo_Sid=MTQ5MTQ3MjAzMjAwMDI4Mzkx037C8810000001;Path=/;Domain=mail.10086.cn;HTTPOnly[\r][\n]"
+2017-04-06 17:45:23  [ main:339 ] - [ DEBUG ]   << "Set-Cookie: cookiepartid7677=12;Path=/;Domain=mail.10086.cn[\r][\n]"
+2017-04-06 17:45:23  [ main:340 ] - [ DEBUG ]   << "Set-Cookie: cookiepartid=12;Path=/;Domain=mail.10086.cn[\r][\n]"
+2017-04-06 17:45:23  [ main:341 ] - [ DEBUG ]   << "Set-Cookie: Login_UserNumber=15914063350;Path=/;Domain=mail.10086.cn;expires=Thu Apr 20 17:47:12 CST 2017;Max-Age=2147483647[\r][\n]"
+2017-04-06 17:45:23  [ main:341 ] - [ DEBUG ]   << "Set-Cookie: UserData=%7BssoSid%3A%27MTQ5MTQ3MjAzMjAwMDI4Mzkx037C8810000001%27%2CuidList%3A%5B%22lbxoqy%22%2C%22228518992%22%5D%2CprovCode%3A1%2CserviceItem%3A%270010%27%2ClastLoginDate%3A%272017-04-06+17%3A44%3A24%27%2CuserNumber%3A%278615914063350%27%2Cloginname%3A%2715914063350%27%2C%22out_qanotify%22%3Afalse%7D;Path=/;Domain=mail.10086.cn;HTTPOnly[\r][\n]"
+2017-04-06 17:45:23  [ main:341 ] - [ DEBUG ]   << "Set-Cookie: SkinPath27677=skin_newyear;Path=/;Domain=mail.10086.cn[\r][\n]"
+2017-04-06 17:45:23  [ main:342 ] - [ DEBUG ]   << "Set-Cookie: rmUin7677=617492385;Path=/;Domain=mail.10086.cn;HTTPOnly[\r][\n]"
+2017-04-06 17:45:23  [ main:342 ] - [ DEBUG ]   << "Set-Cookie: provCode7677=1;Path=/;Domain=mail.10086.cn[\r][\n]"
+2017-04-06 17:45:23  [ main:342 ] - [ DEBUG ]   << "Set-Cookie: areaCode7677=3;Path=/;Domain=mail.10086.cn[\r][\n]"
+2017-04-06 17:45:23  [ main:343 ] - [ DEBUG ]   << "Location: https://appmail.mail.10086.cn/m2015/html/index.html?sid=MTQ5MTQ3MjAzMjAwMDI4Mzkx037C8810000001&rnd=796&tab=welcome&comefrom=54&v=25&k=7677&resource=indexLogin&cguid=1742225179455&mtime=42[\r][\n]"
+2017-04-06 17:45:23  [ main:343 ] - [ DEBUG ]   << "[\r][\n]"
+2017-04-06 17:45:23  [ main:344 ] - [ DEBUG ]  Receiving response: HTTP/1.1 302 Found
+2017-04-06 17:45:23  [ main:344 ] - [ DEBUG ]  << HTTP/1.1 302 Found
+2017-04-06 17:45:23  [ main:345 ] - [ DEBUG ]  << Server: nginx
+2017-04-06 17:45:23  [ main:345 ] - [ DEBUG ]  << Date: Thu, 06 Apr 2017 09:47:12 GMT
+2017-04-06 17:45:23  [ main:345 ] - [ DEBUG ]  << Content-Length: 0
+2017-04-06 17:45:23  [ main:345 ] - [ DEBUG ]  << Connection: keep-alive
+2017-04-06 17:45:23  [ main:346 ] - [ DEBUG ]  << Set-Cookie: a_l=;Path=/;Domain=mail.10086.cn;expires=Thu Apr 06 17:47:12 CST 2017;Max-Age=0
+2017-04-06 17:45:23  [ main:346 ] - [ DEBUG ]  << Set-Cookie: a_l2=;Path=/;Domain=mail.10086.cn;expires=Thu Apr 06 17:47:12 CST 2017;Max-Age=0;HTTPOnly
+2017-04-06 17:45:23  [ main:347 ] - [ DEBUG ]  << Set-Cookie: RMKEY=24ce2fa158e60ea0;Path=/;Domain=mail.10086.cn;HTTPOnly
+2017-04-06 17:45:23  [ main:348 ] - [ DEBUG ]  << Set-Cookie: Os_SSo_Sid=MTQ5MTQ3MjAzMjAwMDI4Mzkx037C8810000001;Path=/;Domain=mail.10086.cn;HTTPOnly
+2017-04-06 17:45:23  [ main:348 ] - [ DEBUG ]  << Set-Cookie: cookiepartid7677=12;Path=/;Domain=mail.10086.cn
+2017-04-06 17:45:23  [ main:348 ] - [ DEBUG ]  << Set-Cookie: cookiepartid=12;Path=/;Domain=mail.10086.cn
+2017-04-06 17:45:23  [ main:349 ] - [ DEBUG ]  << Set-Cookie: Login_UserNumber=15914063350;Path=/;Domain=mail.10086.cn;expires=Thu Apr 20 17:47:12 CST 2017;Max-Age=2147483647
+2017-04-06 17:45:23  [ main:349 ] - [ DEBUG ]  << Set-Cookie: UserData=%7BssoSid%3A%27MTQ5MTQ3MjAzMjAwMDI4Mzkx037C8810000001%27%2CuidList%3A%5B%22lbxoqy%22%2C%22228518992%22%5D%2CprovCode%3A1%2CserviceItem%3A%270010%27%2ClastLoginDate%3A%272017-04-06+17%3A44%3A24%27%2CuserNumber%3A%278615914063350%27%2Cloginname%3A%2715914063350%27%2C%22out_qanotify%22%3Afalse%7D;Path=/;Domain=mail.10086.cn;HTTPOnly
+2017-04-06 17:45:23  [ main:349 ] - [ DEBUG ]  << Set-Cookie: SkinPath27677=skin_newyear;Path=/;Domain=mail.10086.cn
+2017-04-06 17:45:23  [ main:349 ] - [ DEBUG ]  << Set-Cookie: rmUin7677=617492385;Path=/;Domain=mail.10086.cn;HTTPOnly
+2017-04-06 17:45:23  [ main:350 ] - [ DEBUG ]  << Set-Cookie: provCode7677=1;Path=/;Domain=mail.10086.cn
+2017-04-06 17:45:23  [ main:350 ] - [ DEBUG ]  << Set-Cookie: areaCode7677=3;Path=/;Domain=mail.10086.cn
+2017-04-06 17:45:23  [ main:350 ] - [ DEBUG ]  << Location: https://appmail.mail.10086.cn/m2015/html/index.html?sid=MTQ5MTQ3MjAzMjAwMDI4Mzkx037C8810000001&rnd=796&tab=welcome&comefrom=54&v=25&k=7677&resource=indexLogin&cguid=1742225179455&mtime=42
+2017-04-06 17:45:23  [ main:362 ] - [ WARN ]  Invalid cookie header: "Set-Cookie: a_l=;Path=/;Domain=mail.10086.cn;expires=Thu Apr 06 17:47:12 CST 2017;Max-Age=0". Unable to parse expires attribute: Thu Apr 06 17:47:12 CST 2017
+2017-04-06 17:45:23  [ main:363 ] - [ WARN ]  Invalid cookie header: "Set-Cookie: a_l2=;Path=/;Domain=mail.10086.cn;expires=Thu Apr 06 17:47:12 CST 2017;Max-Age=0;HTTPOnly". Unable to parse expires attribute: Thu Apr 06 17:47:12 CST 2017
+2017-04-06 17:45:23  [ main:364 ] - [ DEBUG ]  Cookie accepted: "[version: 0][name: RMKEY][value: 24ce2fa158e60ea0][domain: mail.10086.cn][path: /][expiry: null]". 
+2017-04-06 17:45:23  [ main:364 ] - [ DEBUG ]  Cookie accepted: "[version: 0][name: Os_SSo_Sid][value: MTQ5MTQ3MjAzMjAwMDI4Mzkx037C8810000001][domain: mail.10086.cn][path: /][expiry: null]". 
+2017-04-06 17:45:23  [ main:364 ] - [ DEBUG ]  Cookie accepted: "[version: 0][name: cookiepartid7677][value: 12][domain: mail.10086.cn][path: /][expiry: null]". 
+2017-04-06 17:45:23  [ main:365 ] - [ DEBUG ]  Cookie accepted: "[version: 0][name: cookiepartid][value: 12][domain: mail.10086.cn][path: /][expiry: null]". 
+2017-04-06 17:45:23  [ main:365 ] - [ WARN ]  Invalid cookie header: "Set-Cookie: Login_UserNumber=15914063350;Path=/;Domain=mail.10086.cn;expires=Thu Apr 20 17:47:12 CST 2017;Max-Age=2147483647". Unable to parse expires attribute: Thu Apr 20 17:47:12 CST 2017
+2017-04-06 17:45:23  [ main:366 ] - [ DEBUG ]  Cookie accepted: "[version: 0][name: UserData][value: %7BssoSid%3A%27MTQ5MTQ3MjAzMjAwMDI4Mzkx037C8810000001%27%2CuidList%3A%5B%22lbxoqy%22%2C%22228518992%22%5D%2CprovCode%3A1%2CserviceItem%3A%270010%27%2ClastLoginDate%3A%272017-04-06+17%3A44%3A24%27%2CuserNumber%3A%278615914063350%27%2Cloginname%3A%2715914063350%27%2C%22out_qanotify%22%3Afalse%7D][domain: mail.10086.cn][path: /][expiry: null]". 
+2017-04-06 17:45:23  [ main:366 ] - [ DEBUG ]  Cookie accepted: "[version: 0][name: SkinPath27677][value: skin_newyear][domain: mail.10086.cn][path: /][expiry: null]". 
+2017-04-06 17:45:23  [ main:366 ] - [ DEBUG ]  Cookie accepted: "[version: 0][name: rmUin7677][value: 617492385][domain: mail.10086.cn][path: /][expiry: null]". 
+2017-04-06 17:45:23  [ main:366 ] - [ DEBUG ]  Cookie accepted: "[version: 0][name: provCode7677][value: 1][domain: mail.10086.cn][path: /][expiry: null]". 
+2017-04-06 17:45:23  [ main:367 ] - [ DEBUG ]  Cookie accepted: "[version: 0][name: areaCode7677][value: 3][domain: mail.10086.cn][path: /][expiry: null]". 
+2017-04-06 17:45:23  [ main:368 ] - [ DEBUG ]  Connection can be kept alive indefinitely
+2017-04-06 17:45:23  [ main:391 ] - [ DEBUG ]  Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@77be656f
+2017-04-06 17:45:23  [ main:391 ] - [ DEBUG ]  Connection can be kept alive indefinitely

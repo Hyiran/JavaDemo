@@ -1,0 +1,3 @@
+com.testng.demo.SampleTest testMethodTwo 2017-03-29 17:19:04 60∫¡√Î FAILURE
+com.testng.demo.SampleTest testMethodOne 2017-03-29 17:19:04 8∫¡√Î SUCCESS
+com.testng.demo.SampleTest testMethodThree 2017-03-29 17:19:04 154∫¡√Î SKIP

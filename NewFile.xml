@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="sample" basedir="." default="copyfile">
+  <target name="copyfile">
+      <delete dir = "./libs"></delete> 
+  </target>
+</project>

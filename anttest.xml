@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="anttest" default="run" basedir=".">
+    <echo message="测试jenkins上执行ant任务" />   
+    <target name="complie">
+    	<mkdir dir="build/classes" />
+    </target>
+    
+    <target name="run" depends="complie">
+        <echo message="执行编译任务" />
+        <java classname="TestPath" />
+    </target>
+</project>

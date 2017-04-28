@@ -1,0 +1,419 @@
+E:\workspace\HK_GW_Test\test-output\bullet_point.png
+E:\workspace\HK_GW_Test\test-output\collapseall.gif
+E:\workspace\HK_GW_Test\test-output\emailable-report.html
+E:\workspace\HK_GW_Test\test-output\failed.png
+E:\workspace\HK_GW_Test\test-output\index.html
+E:\workspace\HK_GW_Test\test-output\jquery-1.7.1.min.js
+E:\workspace\HK_GW_Test\test-output\navigator-bullet.png
+E:\workspace\HK_GW_Test\test-output\passed.png
+E:\workspace\HK_GW_Test\test-output\skipped.png
+E:\workspace\HK_GW_Test\test-output\testng-failed.xml
+E:\workspace\HK_GW_Test\test-output\testng-reports.css
+E:\workspace\HK_GW_Test\test-output\testng-reports.js
+E:\workspace\HK_GW_Test\test-output\testng-results.xml
+E:\workspace\HK_GW_Test\test-output\testng.css
+E:\workspace\HK_GW_Test\test-output\201612211436\back.gif
+E:\workspace\HK_GW_Test\test-output\201612211436\bullet_point.png
+E:\workspace\HK_GW_Test\test-output\201612211436\Chart.js
+E:\workspace\HK_GW_Test\test-output\201612211436\collapseall.gif
+E:\workspace\HK_GW_Test\test-output\201612211436\emailable-report.html
+E:\workspace\HK_GW_Test\test-output\201612211436\failed.png
+E:\workspace\HK_GW_Test\test-output\201612211436\imageshow.css
+E:\workspace\HK_GW_Test\test-output\201612211436\index.html
+E:\workspace\HK_GW_Test\test-output\201612211436\jquery-1.7.1.min.js
+E:\workspace\HK_GW_Test\test-output\201612211436\loadxmldoc.js
+E:\workspace\HK_GW_Test\test-output\201612211436\navigator-bullet.png
+E:\workspace\HK_GW_Test\test-output\201612211436\passed.png
+E:\workspace\HK_GW_Test\test-output\201612211436\passed.xml
+E:\workspace\HK_GW_Test\test-output\201612211436\report.css
+E:\workspace\HK_GW_Test\test-output\201612211436\report.html
+E:\workspace\HK_GW_Test\test-output\201612211436\report.js
+E:\workspace\HK_GW_Test\test-output\201612211436\ReportReource.java
+E:\workspace\HK_GW_Test\test-output\201612211436\skipped.png
+E:\workspace\HK_GW_Test\test-output\201612211436\testng-reports.css
+E:\workspace\HK_GW_Test\test-output\201612211436\testng-reports.js
+E:\workspace\HK_GW_Test\test-output\201612211436\testng-results.xml
+E:\workspace\HK_GW_Test\test-output\201612211436\testng.css
+E:\workspace\HK_GW_Test\test-output\201612211436\junitreports\TEST-net.hk515.Test.AppointmentGWTest.xml
+E:\workspace\HK_GW_Test\test-output\201612211436\log\2016-12-21\log_2016-12-21.html
+E:\workspace\HK_GW_Test\test-output\201612211436\log\2016-12-21\log_2016-12-21.log
+E:\workspace\HK_GW_Test\test-output\201612211436\old\index.html
+E:\workspace\HK_GW_Test\test-output\201612211436\old\Suite\classes.html
+E:\workspace\HK_GW_Test\test-output\201612211436\old\Suite\groups.html
+E:\workspace\HK_GW_Test\test-output\201612211436\old\Suite\index.html
+E:\workspace\HK_GW_Test\test-output\201612211436\old\Suite\main.html
+E:\workspace\HK_GW_Test\test-output\201612211436\old\Suite\methods-alphabetical.html
+E:\workspace\HK_GW_Test\test-output\201612211436\old\Suite\methods-not-run.html
+E:\workspace\HK_GW_Test\test-output\201612211436\old\Suite\methods.html
+E:\workspace\HK_GW_Test\test-output\201612211436\old\Suite\reporter-output.html
+E:\workspace\HK_GW_Test\test-output\201612211436\old\Suite\testng.xml.html
+E:\workspace\HK_GW_Test\test-output\201612211436\old\Suite\toc.html
+E:\workspace\HK_GW_Test\test-output\201612211436\old\Suite\基础功能.properties
+E:\workspace\HK_GW_Test\test-output\201612211436\Suite\基础功能.html
+E:\workspace\HK_GW_Test\test-output\201612211436\Suite\基础功能.xml
+E:\workspace\HK_GW_Test\test-output\20170301\back.gif
+E:\workspace\HK_GW_Test\test-output\20170301\bullet_point.png
+E:\workspace\HK_GW_Test\test-output\20170301\Chart.js
+E:\workspace\HK_GW_Test\test-output\20170301\close.gif
+E:\workspace\HK_GW_Test\test-output\20170301\collapseall.gif
+E:\workspace\HK_GW_Test\test-output\20170301\emailable-report.html
+E:\workspace\HK_GW_Test\test-output\20170301\failed.png
+E:\workspace\HK_GW_Test\test-output\20170301\failed.xml
+E:\workspace\HK_GW_Test\test-output\20170301\imageshow.css
+E:\workspace\HK_GW_Test\test-output\20170301\index.html
+E:\workspace\HK_GW_Test\test-output\20170301\jquery-1.7.1.min.js
+E:\workspace\HK_GW_Test\test-output\20170301\loadxmldoc.js
+E:\workspace\HK_GW_Test\test-output\20170301\logo1.png
+E:\workspace\HK_GW_Test\test-output\20170301\navigator-bullet.png
+E:\workspace\HK_GW_Test\test-output\20170301\passed.png
+E:\workspace\HK_GW_Test\test-output\20170301\passed.xml
+E:\workspace\HK_GW_Test\test-output\20170301\report.css
+E:\workspace\HK_GW_Test\test-output\20170301\report.html
+E:\workspace\HK_GW_Test\test-output\20170301\report.js
+E:\workspace\HK_GW_Test\test-output\20170301\ReportReource.java
+E:\workspace\HK_GW_Test\test-output\20170301\skipped.png
+E:\workspace\HK_GW_Test\test-output\20170301\testng-reports.css
+E:\workspace\HK_GW_Test\test-output\20170301\testng-reports.js
+E:\workspace\HK_GW_Test\test-output\20170301\testng.css
+E:\workspace\HK_GW_Test\test-output\20170301\log\log_2017-03-01.html
+E:\workspace\HK_GW_Test\test-output\20170301\log\log_2017-03-01.log
+E:\workspace\HK_GW_Test\test-output\20170301\snapshot\2017-03-01 142754253.jpg
+E:\workspace\HK_GW_Test\test-output\20170301\snapshot\2017-03-01 180458570.jpg
+E:\workspace\HK_GW_Test\test-output\20170301\snapshot\医院医生挂号0.jpg
+E:\workspace\HK_GW_Test\test-output\20170301\snapshot\医院医生挂号1.jpg
+E:\workspace\HK_GW_Test\test-output\20170301\snapshot\深圳客服后台-登录系统0.jpg
+E:\workspace\HK_GW_Test\test-output\201703010929\failed.xml
+E:\workspace\HK_GW_Test\test-output\201703010929\log\log_2017-03-01.html
+E:\workspace\HK_GW_Test\test-output\201703010929\log\log_2017-03-01.log
+E:\workspace\HK_GW_Test\test-output\201703010929\snapshot\医院医生挂号0.jpg
+E:\workspace\HK_GW_Test\test-output\201703010930\log\log_2017-03-01.html
+E:\workspace\HK_GW_Test\test-output\201703010930\log\log_2017-03-01.log
+E:\workspace\HK_GW_Test\test-output\201703010932\back.gif
+E:\workspace\HK_GW_Test\test-output\201703010932\bullet_point.png
+E:\workspace\HK_GW_Test\test-output\201703010932\Chart.js
+E:\workspace\HK_GW_Test\test-output\201703010932\close.gif
+E:\workspace\HK_GW_Test\test-output\201703010932\collapseall.gif
+E:\workspace\HK_GW_Test\test-output\201703010932\emailable-report.html
+E:\workspace\HK_GW_Test\test-output\201703010932\failed.png
+E:\workspace\HK_GW_Test\test-output\201703010932\failed.xml
+E:\workspace\HK_GW_Test\test-output\201703010932\imageshow.css
+E:\workspace\HK_GW_Test\test-output\201703010932\index.html
+E:\workspace\HK_GW_Test\test-output\201703010932\jquery-1.7.1.min.js
+E:\workspace\HK_GW_Test\test-output\201703010932\loadxmldoc.js
+E:\workspace\HK_GW_Test\test-output\201703010932\logo1.png
+E:\workspace\HK_GW_Test\test-output\201703010932\navigator-bullet.png
+E:\workspace\HK_GW_Test\test-output\201703010932\passed.png
+E:\workspace\HK_GW_Test\test-output\201703010932\passed.xml
+E:\workspace\HK_GW_Test\test-output\201703010932\report.css
+E:\workspace\HK_GW_Test\test-output\201703010932\report.html
+E:\workspace\HK_GW_Test\test-output\201703010932\report.js
+E:\workspace\HK_GW_Test\test-output\201703010932\ReportReource.java
+E:\workspace\HK_GW_Test\test-output\201703010932\skipped.png
+E:\workspace\HK_GW_Test\test-output\201703010932\testng-reports.css
+E:\workspace\HK_GW_Test\test-output\201703010932\testng-reports.js
+E:\workspace\HK_GW_Test\test-output\201703010932\testng.css
+E:\workspace\HK_GW_Test\test-output\201703010932\log\log_2017-03-01.html
+E:\workspace\HK_GW_Test\test-output\201703010932\log\log_2017-03-01.log
+E:\workspace\HK_GW_Test\test-output\201703010932\snapshot\医院医生挂号0.jpg
+E:\workspace\HK_GW_Test\test-output\201703011007\back.gif
+E:\workspace\HK_GW_Test\test-output\201703011007\bullet_point.png
+E:\workspace\HK_GW_Test\test-output\201703011007\Chart.js
+E:\workspace\HK_GW_Test\test-output\201703011007\close.gif
+E:\workspace\HK_GW_Test\test-output\201703011007\collapseall.gif
+E:\workspace\HK_GW_Test\test-output\201703011007\emailable-report.html
+E:\workspace\HK_GW_Test\test-output\201703011007\failed.png
+E:\workspace\HK_GW_Test\test-output\201703011007\imageshow.css
+E:\workspace\HK_GW_Test\test-output\201703011007\index.html
+E:\workspace\HK_GW_Test\test-output\201703011007\jquery-1.7.1.min.js
+E:\workspace\HK_GW_Test\test-output\201703011007\loadxmldoc.js
+E:\workspace\HK_GW_Test\test-output\201703011007\logo1.png
+E:\workspace\HK_GW_Test\test-output\201703011007\navigator-bullet.png
+E:\workspace\HK_GW_Test\test-output\201703011007\passed.png
+E:\workspace\HK_GW_Test\test-output\201703011007\passed.xml
+E:\workspace\HK_GW_Test\test-output\201703011007\report.css
+E:\workspace\HK_GW_Test\test-output\201703011007\report.html
+E:\workspace\HK_GW_Test\test-output\201703011007\report.js
+E:\workspace\HK_GW_Test\test-output\201703011007\ReportReource.java
+E:\workspace\HK_GW_Test\test-output\201703011007\skipped.png
+E:\workspace\HK_GW_Test\test-output\201703011007\testng-reports.css
+E:\workspace\HK_GW_Test\test-output\201703011007\testng-reports.js
+E:\workspace\HK_GW_Test\test-output\201703011007\testng.css
+E:\workspace\HK_GW_Test\test-output\201703011007\log\log_2017-03-01.html
+E:\workspace\HK_GW_Test\test-output\201703011007\log\log_2017-03-01.log
+E:\workspace\HK_GW_Test\test-output\201703011007\snapshot\2017-03-01 100839711.jpg
+E:\workspace\HK_GW_Test\test-output\201703011023\back.gif
+E:\workspace\HK_GW_Test\test-output\201703011023\bullet_point.png
+E:\workspace\HK_GW_Test\test-output\201703011023\Chart.js
+E:\workspace\HK_GW_Test\test-output\201703011023\close.gif
+E:\workspace\HK_GW_Test\test-output\201703011023\collapseall.gif
+E:\workspace\HK_GW_Test\test-output\201703011023\emailable-report.html
+E:\workspace\HK_GW_Test\test-output\201703011023\failed.png
+E:\workspace\HK_GW_Test\test-output\201703011023\failed.xml
+E:\workspace\HK_GW_Test\test-output\201703011023\imageshow.css
+E:\workspace\HK_GW_Test\test-output\201703011023\index.html
+E:\workspace\HK_GW_Test\test-output\201703011023\jquery-1.7.1.min.js
+E:\workspace\HK_GW_Test\test-output\201703011023\loadxmldoc.js
+E:\workspace\HK_GW_Test\test-output\201703011023\logo1.png
+E:\workspace\HK_GW_Test\test-output\201703011023\navigator-bullet.png
+E:\workspace\HK_GW_Test\test-output\201703011023\passed.png
+E:\workspace\HK_GW_Test\test-output\201703011023\report.css
+E:\workspace\HK_GW_Test\test-output\201703011023\report.html
+E:\workspace\HK_GW_Test\test-output\201703011023\report.js
+E:\workspace\HK_GW_Test\test-output\201703011023\ReportReource.java
+E:\workspace\HK_GW_Test\test-output\201703011023\skipped.png
+E:\workspace\HK_GW_Test\test-output\201703011023\testng-reports.css
+E:\workspace\HK_GW_Test\test-output\201703011023\testng-reports.js
+E:\workspace\HK_GW_Test\test-output\201703011023\testng.css
+E:\workspace\HK_GW_Test\test-output\201703011023\log\log_2017-03-01.html
+E:\workspace\HK_GW_Test\test-output\201703011023\log\log_2017-03-01.log
+E:\workspace\HK_GW_Test\test-output\201703011023\snapshot\2017-03-01 102453775.jpg
+E:\workspace\HK_GW_Test\test-output\201703011023\snapshot\2017-03-01 102514445.jpg
+E:\workspace\HK_GW_Test\test-output\201703011023\snapshot\深圳客服后台-登录系统0.jpg
+E:\workspace\HK_GW_Test\test-output\201703011055\back.gif
+E:\workspace\HK_GW_Test\test-output\201703011055\bullet_point.png
+E:\workspace\HK_GW_Test\test-output\201703011055\Chart.js
+E:\workspace\HK_GW_Test\test-output\201703011055\close.gif
+E:\workspace\HK_GW_Test\test-output\201703011055\collapseall.gif
+E:\workspace\HK_GW_Test\test-output\201703011055\emailable-report.html
+E:\workspace\HK_GW_Test\test-output\201703011055\failed.png
+E:\workspace\HK_GW_Test\test-output\201703011055\failed.xml
+E:\workspace\HK_GW_Test\test-output\201703011055\imageshow.css
+E:\workspace\HK_GW_Test\test-output\201703011055\index.html
+E:\workspace\HK_GW_Test\test-output\201703011055\jquery-1.7.1.min.js
+E:\workspace\HK_GW_Test\test-output\201703011055\loadxmldoc.js
+E:\workspace\HK_GW_Test\test-output\201703011055\logo1.png
+E:\workspace\HK_GW_Test\test-output\201703011055\navigator-bullet.png
+E:\workspace\HK_GW_Test\test-output\201703011055\passed.png
+E:\workspace\HK_GW_Test\test-output\201703011055\report.css
+E:\workspace\HK_GW_Test\test-output\201703011055\report.html
+E:\workspace\HK_GW_Test\test-output\201703011055\report.js
+E:\workspace\HK_GW_Test\test-output\201703011055\ReportReource.java
+E:\workspace\HK_GW_Test\test-output\201703011055\skipped.png
+E:\workspace\HK_GW_Test\test-output\201703011055\testng-reports.css
+E:\workspace\HK_GW_Test\test-output\201703011055\testng-reports.js
+E:\workspace\HK_GW_Test\test-output\201703011055\testng.css
+E:\workspace\HK_GW_Test\test-output\201703011055\log\log_2017-03-01.html
+E:\workspace\HK_GW_Test\test-output\201703011055\log\log_2017-03-01.log
+E:\workspace\HK_GW_Test\test-output\201703011055\snapshot\2017-03-01 105638054.jpg
+E:\workspace\HK_GW_Test\test-output\201703011055\snapshot\2017-03-01 105658830.jpg
+E:\workspace\HK_GW_Test\test-output\201703011055\snapshot\深圳客服后台-登录系统0.jpg
+E:\workspace\HK_GW_Test\test-output\201703011110\back.gif
+E:\workspace\HK_GW_Test\test-output\201703011110\bullet_point.png
+E:\workspace\HK_GW_Test\test-output\201703011110\Chart.js
+E:\workspace\HK_GW_Test\test-output\201703011110\close.gif
+E:\workspace\HK_GW_Test\test-output\201703011110\collapseall.gif
+E:\workspace\HK_GW_Test\test-output\201703011110\emailable-report.html
+E:\workspace\HK_GW_Test\test-output\201703011110\failed.png
+E:\workspace\HK_GW_Test\test-output\201703011110\failed.xml
+E:\workspace\HK_GW_Test\test-output\201703011110\imageshow.css
+E:\workspace\HK_GW_Test\test-output\201703011110\index.html
+E:\workspace\HK_GW_Test\test-output\201703011110\jquery-1.7.1.min.js
+E:\workspace\HK_GW_Test\test-output\201703011110\loadxmldoc.js
+E:\workspace\HK_GW_Test\test-output\201703011110\logo1.png
+E:\workspace\HK_GW_Test\test-output\201703011110\navigator-bullet.png
+E:\workspace\HK_GW_Test\test-output\201703011110\passed.png
+E:\workspace\HK_GW_Test\test-output\201703011110\report.css
+E:\workspace\HK_GW_Test\test-output\201703011110\report.html
+E:\workspace\HK_GW_Test\test-output\201703011110\report.js
+E:\workspace\HK_GW_Test\test-output\201703011110\ReportReource.java
+E:\workspace\HK_GW_Test\test-output\201703011110\skipped.png
+E:\workspace\HK_GW_Test\test-output\201703011110\testng-reports.css
+E:\workspace\HK_GW_Test\test-output\201703011110\testng-reports.js
+E:\workspace\HK_GW_Test\test-output\201703011110\testng.css
+E:\workspace\HK_GW_Test\test-output\201703011110\log\log_2017-03-01.html
+E:\workspace\HK_GW_Test\test-output\201703011110\log\log_2017-03-01.log
+E:\workspace\HK_GW_Test\test-output\201703011110\snapshot\2017-03-01 111127912.jpg
+E:\workspace\HK_GW_Test\test-output\201703011110\snapshot\2017-03-01 111148756.jpg
+E:\workspace\HK_GW_Test\test-output\201703011110\snapshot\深圳客服后台-登录系统0.jpg
+E:\workspace\HK_GW_Test\test-output\201703011132\back.gif
+E:\workspace\HK_GW_Test\test-output\201703011132\bullet_point.png
+E:\workspace\HK_GW_Test\test-output\201703011132\Chart.js
+E:\workspace\HK_GW_Test\test-output\201703011132\close.gif
+E:\workspace\HK_GW_Test\test-output\201703011132\collapseall.gif
+E:\workspace\HK_GW_Test\test-output\201703011132\emailable-report.html
+E:\workspace\HK_GW_Test\test-output\201703011132\failed.png
+E:\workspace\HK_GW_Test\test-output\201703011132\failed.xml
+E:\workspace\HK_GW_Test\test-output\201703011132\imageshow.css
+E:\workspace\HK_GW_Test\test-output\201703011132\index.html
+E:\workspace\HK_GW_Test\test-output\201703011132\jquery-1.7.1.min.js
+E:\workspace\HK_GW_Test\test-output\201703011132\loadxmldoc.js
+E:\workspace\HK_GW_Test\test-output\201703011132\logo1.png
+E:\workspace\HK_GW_Test\test-output\201703011132\navigator-bullet.png
+E:\workspace\HK_GW_Test\test-output\201703011132\passed.png
+E:\workspace\HK_GW_Test\test-output\201703011132\report.css
+E:\workspace\HK_GW_Test\test-output\201703011132\report.html
+E:\workspace\HK_GW_Test\test-output\201703011132\report.js
+E:\workspace\HK_GW_Test\test-output\201703011132\ReportReource.java
+E:\workspace\HK_GW_Test\test-output\201703011132\skipped.png
+E:\workspace\HK_GW_Test\test-output\201703011132\testng-reports.css
+E:\workspace\HK_GW_Test\test-output\201703011132\testng-reports.js
+E:\workspace\HK_GW_Test\test-output\201703011132\testng.css
+E:\workspace\HK_GW_Test\test-output\201703011132\log\log_2017-03-01.html
+E:\workspace\HK_GW_Test\test-output\201703011132\log\log_2017-03-01.log
+E:\workspace\HK_GW_Test\test-output\201703011132\snapshot\2017-03-01 113357944.jpg
+E:\workspace\HK_GW_Test\test-output\201703011132\snapshot\2017-03-01 113418452.jpg
+E:\workspace\HK_GW_Test\test-output\201703011132\snapshot\深圳客服后台-登录系统0.jpg
+E:\workspace\HK_GW_Test\test-output\201703011203\back.gif
+E:\workspace\HK_GW_Test\test-output\201703011203\bullet_point.png
+E:\workspace\HK_GW_Test\test-output\201703011203\Chart.js
+E:\workspace\HK_GW_Test\test-output\201703011203\close.gif
+E:\workspace\HK_GW_Test\test-output\201703011203\collapseall.gif
+E:\workspace\HK_GW_Test\test-output\201703011203\emailable-report.html
+E:\workspace\HK_GW_Test\test-output\201703011203\failed.png
+E:\workspace\HK_GW_Test\test-output\201703011203\failed.xml
+E:\workspace\HK_GW_Test\test-output\201703011203\imageshow.css
+E:\workspace\HK_GW_Test\test-output\201703011203\index.html
+E:\workspace\HK_GW_Test\test-output\201703011203\jquery-1.7.1.min.js
+E:\workspace\HK_GW_Test\test-output\201703011203\loadxmldoc.js
+E:\workspace\HK_GW_Test\test-output\201703011203\logo1.png
+E:\workspace\HK_GW_Test\test-output\201703011203\navigator-bullet.png
+E:\workspace\HK_GW_Test\test-output\201703011203\passed.png
+E:\workspace\HK_GW_Test\test-output\201703011203\report.css
+E:\workspace\HK_GW_Test\test-output\201703011203\report.html
+E:\workspace\HK_GW_Test\test-output\201703011203\report.js
+E:\workspace\HK_GW_Test\test-output\201703011203\ReportReource.java
+E:\workspace\HK_GW_Test\test-output\201703011203\skipped.png
+E:\workspace\HK_GW_Test\test-output\201703011203\testng-reports.css
+E:\workspace\HK_GW_Test\test-output\201703011203\testng-reports.js
+E:\workspace\HK_GW_Test\test-output\201703011203\testng.css
+E:\workspace\HK_GW_Test\test-output\201703011203\log\log_2017-03-01.html
+E:\workspace\HK_GW_Test\test-output\201703011203\log\log_2017-03-01.log
+E:\workspace\HK_GW_Test\test-output\201703011203\snapshot\2017-03-01 120459804.jpg
+E:\workspace\HK_GW_Test\test-output\201703011203\snapshot\2017-03-01 120520192.jpg
+E:\workspace\HK_GW_Test\test-output\201703011203\snapshot\深圳客服后台-登录系统0.jpg
+E:\workspace\HK_GW_Test\test-output\20170302\back.gif
+E:\workspace\HK_GW_Test\test-output\20170302\bullet_point.png
+E:\workspace\HK_GW_Test\test-output\20170302\Chart.js
+E:\workspace\HK_GW_Test\test-output\20170302\close.gif
+E:\workspace\HK_GW_Test\test-output\20170302\collapseall.gif
+E:\workspace\HK_GW_Test\test-output\20170302\emailable-report.html
+E:\workspace\HK_GW_Test\test-output\20170302\failed.png
+E:\workspace\HK_GW_Test\test-output\20170302\failed.xml
+E:\workspace\HK_GW_Test\test-output\20170302\imageshow.css
+E:\workspace\HK_GW_Test\test-output\20170302\index.html
+E:\workspace\HK_GW_Test\test-output\20170302\jquery-1.7.1.min.js
+E:\workspace\HK_GW_Test\test-output\20170302\loadxmldoc.js
+E:\workspace\HK_GW_Test\test-output\20170302\logo1.png
+E:\workspace\HK_GW_Test\test-output\20170302\navigator-bullet.png
+E:\workspace\HK_GW_Test\test-output\20170302\passed.png
+E:\workspace\HK_GW_Test\test-output\20170302\passed.xml
+E:\workspace\HK_GW_Test\test-output\20170302\report.css
+E:\workspace\HK_GW_Test\test-output\20170302\report.html
+E:\workspace\HK_GW_Test\test-output\20170302\report.js
+E:\workspace\HK_GW_Test\test-output\20170302\ReportReource.java
+E:\workspace\HK_GW_Test\test-output\20170302\skipped.png
+E:\workspace\HK_GW_Test\test-output\20170302\testng-reports.css
+E:\workspace\HK_GW_Test\test-output\20170302\testng-reports.js
+E:\workspace\HK_GW_Test\test-output\20170302\testng.css
+E:\workspace\HK_GW_Test\test-output\20170302\log\log_2017-03-02.html
+E:\workspace\HK_GW_Test\test-output\20170302\log\log_2017-03-02.log
+E:\workspace\HK_GW_Test\test-output\20170302\snapshot\2017-03-02 101312813.jpg
+E:\workspace\HK_GW_Test\test-output\20170302\snapshot\2017-03-02 101955587.jpg
+E:\workspace\HK_GW_Test\test-output\20170302\snapshot\2017-03-02 102049764.jpg
+E:\workspace\HK_GW_Test\test-output\20170302\snapshot\2017-03-02 102146408.jpg
+E:\workspace\HK_GW_Test\test-output\20170302\snapshot\2017-03-02 102240939.jpg
+E:\workspace\HK_GW_Test\test-output\20170302\snapshot\2017-03-02 102335090.jpg
+E:\workspace\HK_GW_Test\test-output\20170302\snapshot\2017-03-02 103811002.jpg
+E:\workspace\HK_GW_Test\test-output\20170302\snapshot\2017-03-02 103907227.jpg
+E:\workspace\HK_GW_Test\test-output\20170302\snapshot\2017-03-02 104002874.jpg
+E:\workspace\HK_GW_Test\test-output\20170302\snapshot\2017-03-02 104056953.jpg
+E:\workspace\HK_GW_Test\test-output\20170302\snapshot\2017-03-02 104150933.jpg
+E:\workspace\HK_GW_Test\test-output\20170302\snapshot\2017-03-02 104254124.jpg
+E:\workspace\HK_GW_Test\test-output\20170302\snapshot\2017-03-02 105327426.jpg
+E:\workspace\HK_GW_Test\test-output\20170302\snapshot\医院医生挂号0.jpg
+E:\workspace\HK_GW_Test\test-output\Default suite\Default test.html
+E:\workspace\HK_GW_Test\test-output\Default suite\Default test.xml
+E:\workspace\HK_GW_Test\test-output\Default suite\testng-failed.xml
+E:\workspace\HK_GW_Test\test-output\junitreports\TEST-net.hk515.Test.AppointmentDetailTest.xml
+E:\workspace\HK_GW_Test\test-output\junitreports\TEST-net.hk515.Test.AppointmentGWTest.xml
+E:\workspace\HK_GW_Test\test-output\junitreports\TEST-net.hk515.Test.AppointmentTest.xml
+E:\workspace\HK_GW_Test\test-output\junitreports\TEST-net.hk515.Test.GWTest.xml
+E:\workspace\HK_GW_Test\test-output\junitreports\TEST-net.hk515.Test.KFHTTest.xml
+E:\workspace\HK_GW_Test\test-output\junitreports\TEST-net.hk515.Test.YYHTTest.xml
+E:\workspace\HK_GW_Test\test-output\log\2016-12-21\log_2016-12-21.html
+E:\workspace\HK_GW_Test\test-output\log\2016-12-21\log_2016-12-21.log
+E:\workspace\HK_GW_Test\test-output\old\index.html
+E:\workspace\HK_GW_Test\test-output\old\Default suite\classes.html
+E:\workspace\HK_GW_Test\test-output\old\Default suite\Default test.properties
+E:\workspace\HK_GW_Test\test-output\old\Default suite\groups.html
+E:\workspace\HK_GW_Test\test-output\old\Default suite\index.html
+E:\workspace\HK_GW_Test\test-output\old\Default suite\main.html
+E:\workspace\HK_GW_Test\test-output\old\Default suite\methods-alphabetical.html
+E:\workspace\HK_GW_Test\test-output\old\Default suite\methods-not-run.html
+E:\workspace\HK_GW_Test\test-output\old\Default suite\methods.html
+E:\workspace\HK_GW_Test\test-output\old\Default suite\reporter-output.html
+E:\workspace\HK_GW_Test\test-output\old\Default suite\testng.xml.html
+E:\workspace\HK_GW_Test\test-output\old\Default suite\toc.html
+E:\workspace\HK_GW_Test\test-output\old\Suite\classes.html
+E:\workspace\HK_GW_Test\test-output\old\Suite\groups.html
+E:\workspace\HK_GW_Test\test-output\old\Suite\index.html
+E:\workspace\HK_GW_Test\test-output\old\Suite\main.html
+E:\workspace\HK_GW_Test\test-output\old\Suite\methods-alphabetical.html
+E:\workspace\HK_GW_Test\test-output\old\Suite\methods-not-run.html
+E:\workspace\HK_GW_Test\test-output\old\Suite\methods.html
+E:\workspace\HK_GW_Test\test-output\old\Suite\reporter-output.html
+E:\workspace\HK_GW_Test\test-output\old\Suite\testng.xml.html
+E:\workspace\HK_GW_Test\test-output\old\Suite\toc.html
+E:\workspace\HK_GW_Test\test-output\old\Suite\基础功能.properties
+E:\workspace\HK_GW_Test\test-output\old\Suite\海南客服后台.properties
+E:\workspace\HK_GW_Test\test-output\old\Suite\海南客服后台用例.properties
+E:\workspace\HK_GW_Test\test-output\old\Suite\深圳客服后台.properties
+E:\workspace\HK_GW_Test\test-output\old\Suite\深圳客服后台用例.properties
+E:\workspace\HK_GW_Test\test-output\old\Suite\登录功能.properties
+E:\workspace\HK_GW_Test\test-output\old\Suite\登录系统.properties
+E:\workspace\HK_GW_Test\test-output\old\Suite\订单取消.properties
+E:\workspace\HK_GW_Test\test-output\old\Suite\预约挂号.properties
+E:\workspace\HK_GW_Test\test-output\old\Suite\黑龙江客服后台.properties
+E:\workspace\HK_GW_Test\test-output\old\Suite\黑龙江客服后台用例.properties
+E:\workspace\HK_GW_Test\test-output\Suite\Test01.html
+E:\workspace\HK_GW_Test\test-output\Suite\Test01.xml
+E:\workspace\HK_GW_Test\test-output\Suite\testng-failed.xml
+E:\workspace\HK_GW_Test\test-output\Suite\基础功能.html
+E:\workspace\HK_GW_Test\test-output\Suite\基础功能.xml
+E:\workspace\HK_GW_Test\test-output\Suite\海南客服后台.html
+E:\workspace\HK_GW_Test\test-output\Suite\海南客服后台.xml
+E:\workspace\HK_GW_Test\test-output\Suite\海南客服后台用例.html
+E:\workspace\HK_GW_Test\test-output\Suite\海南客服后台用例.xml
+E:\workspace\HK_GW_Test\test-output\Suite\深圳客服后台.html
+E:\workspace\HK_GW_Test\test-output\Suite\深圳客服后台.xml
+E:\workspace\HK_GW_Test\test-output\Suite\深圳客服后台用例.html
+E:\workspace\HK_GW_Test\test-output\Suite\深圳客服后台用例.xml
+E:\workspace\HK_GW_Test\test-output\Suite\登录功能.html
+E:\workspace\HK_GW_Test\test-output\Suite\登录功能.xml
+E:\workspace\HK_GW_Test\test-output\Suite\登录系统.html
+E:\workspace\HK_GW_Test\test-output\Suite\登录系统.xml
+E:\workspace\HK_GW_Test\test-output\Suite\订单取消.html
+E:\workspace\HK_GW_Test\test-output\Suite\订单取消.xml
+E:\workspace\HK_GW_Test\test-output\Suite\预约挂号.html
+E:\workspace\HK_GW_Test\test-output\Suite\预约挂号.xml
+E:\workspace\HK_GW_Test\test-output\Suite\黑龙江客服后台.html
+E:\workspace\HK_GW_Test\test-output\Suite\黑龙江客服后台.xml
+E:\workspace\HK_GW_Test\test-output\Suite\黑龙江客服后台用例.html
+E:\workspace\HK_GW_Test\test-output\Suite\黑龙江客服后台用例.xml
+E:\workspace\HK_GW_Test\test-output\tmp\201702031346passed.xml
+E:\workspace\HK_GW_Test\test-output\tmp\back.gif
+E:\workspace\HK_GW_Test\test-output\tmp\bullet_point.png
+E:\workspace\HK_GW_Test\test-output\tmp\Chart.js
+E:\workspace\HK_GW_Test\test-output\tmp\close.gif
+E:\workspace\HK_GW_Test\test-output\tmp\collapseall.gif
+E:\workspace\HK_GW_Test\test-output\tmp\emailable-report.html
+E:\workspace\HK_GW_Test\test-output\tmp\failed.png
+E:\workspace\HK_GW_Test\test-output\tmp\failed.xml
+E:\workspace\HK_GW_Test\test-output\tmp\imageshow.css
+E:\workspace\HK_GW_Test\test-output\tmp\index.html
+E:\workspace\HK_GW_Test\test-output\tmp\jquery-1.7.1.min.js
+E:\workspace\HK_GW_Test\test-output\tmp\loadxmldoc.js
+E:\workspace\HK_GW_Test\test-output\tmp\logo1.png
+E:\workspace\HK_GW_Test\test-output\tmp\navigator-bullet.png
+E:\workspace\HK_GW_Test\test-output\tmp\passed.png
+E:\workspace\HK_GW_Test\test-output\tmp\passed.xml
+E:\workspace\HK_GW_Test\test-output\tmp\report.css
+E:\workspace\HK_GW_Test\test-output\tmp\report.html
+E:\workspace\HK_GW_Test\test-output\tmp\report.js
+E:\workspace\HK_GW_Test\test-output\tmp\skipped.png
+E:\workspace\HK_GW_Test\test-output\tmp\testng-failed.xml
+E:\workspace\HK_GW_Test\test-output\tmp\testng-reports.css
+E:\workspace\HK_GW_Test\test-output\tmp\testng-reports.js
+E:\workspace\HK_GW_Test\test-output\tmp\testng-results.xml
+E:\workspace\HK_GW_Test\test-output\tmp\testng.css
+复制了 418 个文件

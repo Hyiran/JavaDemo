@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+	<employee>
+		<name name="name">
+			ddvip
+			<addr>adsfasdfasdf</addr>
+		</name>
+		<sex>m</sex>
+		<age>29</age>
+	</employee>
+</employees>
